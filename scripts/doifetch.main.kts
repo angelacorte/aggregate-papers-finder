@@ -46,7 +46,6 @@ val dois = authors.asSequence()
         skrape(HttpFetcher) {
             request(authorUrl)
             response {
-//                resp += responseBody
                 tripleFinder.findAll(responseBody).map {
                     Paper(
                         it.destructured.component2()
@@ -68,7 +67,7 @@ val dois = authors.asSequence()
     .toSet()
     .sortedBy { it.year }
 
-File("dois.txt").writeText(dois.map { "\n{ title: \"${it.title}\", year: ${it.year}, url: \"https://doi.org/${it.doi}\"}" }.toString())
+File("dois.txt").writeText(dois.map { "\n{ \"title\": \"${it.title}\", \"year\": ${it.year}, \"url\": \"https://doi.org/${it.doi}\", \"notes\": \"\"}" }.toString())
 
 val withLink = dois.map { "<p><a href=\"https://doi.org/${it.doi}\">${it.title} (${it.year})</a></p>\n" }
 File("dois.html").writeText(withLink.toString())
