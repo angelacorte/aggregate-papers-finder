@@ -30,7 +30,7 @@ function renderToCheckTable() {
 
     toCheck.forEach((item, index) => {
         const row = toCheckTable.insertRow();
-        row.insertCell(0).innerText = index + 1;
+        row.insertCell(0).innerText = index;
 
         const titleCell = row.insertCell(1);
         const link = document.createElement('a');
@@ -65,7 +65,7 @@ function renderCheckedTable() {
 
     checked.forEach((item, index) => {
         const row = checkedTable.insertRow();
-        row.insertCell(0).innerText = index + 1;
+        row.insertCell(0).innerText = index;
 
         const titleCell = row.insertCell(1);
         const link = document.createElement('a');

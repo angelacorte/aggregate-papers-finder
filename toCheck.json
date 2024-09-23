@@ -1,77 +1,5 @@
 [
   {
-    "title": "A Self-organizing Approach to Tuple Distribution in Large-Scale Tuple-Space Systems",
-    "year": 2007,
-    "url": "https://doi.org/10.1007/978-3-540-74917-2_13",
-    "notes": ""
-  },
-  {
-    "title": "simpA: A Simple Agent-Oriented Java Extension for Developing Concurrent Applications",
-    "year": 2007,
-    "url": "https://doi.org/10.1007/978-3-540-85058-8_16",
-    "notes": ""
-  },
-  {
-    "title": "Variant path types for scalable extensibility",
-    "year": 2007,
-    "url": "https://doi.org/10.1145/1297027.1297037",
-    "notes": ""
-  },
-  {
-    "title": "simpA: an agent-oriented approach for prototyping concurrent applications on top of Java",
-    "year": 2007,
-    "url": "https://doi.org/10.1145/1294325.1294350",
-    "notes": ""
-  },
-  {
-    "title": "A Prolog-oriented extension of Java programming based on generics and annotations",
-    "year": 2007,
-    "url": "https://doi.org/10.1145/1294325.1294352",
-    "notes": ""
-  },
-  {
-    "title": "The A&A Programming Model and Technology for Developing Agent Environments in MAS",
-    "year": 2007,
-    "url": "https://doi.org/10.1007/978-3-540-79043-3_6",
-    "notes": ""
-  },
-  {
-    "title": "A self-organising solution to the collective sort problem in distributed tuple spaces",
-    "year": 2007,
-    "url": "https://doi.org/10.1145/1244002.1244086",
-    "notes": ""
-  },
-  {
-    "title": "Reifying wildcards in Java using the EGO approach",
-    "year": 2007,
-    "url": "https://doi.org/10.1145/1244002.1244286",
-    "notes": ""
-  },
-  {
-    "title": "On the Problem of Over-clustering in Tuple-based Coordination Systems",
-    "year": 2007,
-    "url": "https://doi.org/10.1109/SASO.2007.42",
-    "notes": ""
-  },
-  {
-    "title": "Continuous Space-Time Semantics Allow Adaptive Program Execution",
-    "year": 2007,
-    "url": "https://doi.org/10.1109/SASO.2007.14",
-    "notes": ""
-  },
-  {
-    "title": "Special section: A Grid-like distributed computing in amorphous networks",
-    "year": 2007,
-    "url": "https://doi.org/10.1016/J.FUTURE.2007.04.004",
-    "notes": ""
-  },
-  {
-    "title": "Artifacts in the A&A meta-model for multi-agent systems",
-    "year": 2008,
-    "url": "https://doi.org/10.1007/S10458-008-9053-X",
-    "notes": ""
-  },
-  {
     "title": "Designing self-organising environments with agents and artefacts: a simulation-driven approach",
     "year": 2008,
     "url": "https://doi.org/10.1504/IJAOSE.2008.017314",
@@ -1395,12 +1323,6 @@
     "title": "Field-Based Coordination for Federated Learning",
     "year": 2024,
     "url": "https://doi.org/10.1007/978-3-031-62697-5_4",
-    "notes": ""
-  },
-  {
-    "title": "ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design",
-    "year": 2024,
-    "url": "https://doi.org/10.1007/978-3-031-62697-5_14",
     "notes": ""
   },
   {

@@ -94,5 +94,23 @@
     "year": 2007,
     "url": "https://doi.org/10.1007/978-3-540-75119-9_18",
     "notes": "decision phase, movement phase, collective sort instance"
+  },
+  {
+    "title": "A self-organising solution to the collective sort problem in distributed tuple spaces",
+    "year": 2007,
+    "url": "https://doi.org/10.1145/1244002.1244086",
+    "notes": "collective sorting (vacuum)"
+  },
+  {
+    "title": "ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design",
+    "year": 2024,
+    "url": "https://doi.org/10.1007/978-3-031-62697-5_14",
+    "notes": "scafi blocks web"
+  },
+  {
+    "title": "On the Problem of Over-clustering in Tuple-based Coordination Systems",
+    "year": 2007,
+    "url": "https://doi.org/10.1109/SASO.2007.42",
+    "notes": "tuple distribution to not over cluster"
   }
 ]
