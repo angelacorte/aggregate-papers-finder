@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Computing Amorphous Program Slices Using Dependence Graphs",
+    "year": 1999,
+    "notes": "",
+    "url": "https://doi.org/10.1145/298151.298432"
+  },
+  {
+    "title": "Amorphous Computing",
+    "year": 2000,
+    "notes": "program in the growing-point language -- pseudo-algorithm in lisp",
+    "url": "https://doi.org/10.1145/332833.332842"
+  },
+  {
+    "title": "Programming an Amorphous Computational Medium",
+    "year": 2004,
+    "notes": "density of neighbors, fuzzy blobs",
+    "url": "https://doi.org/10.1007/11527800_10"
+  },
+  {
+    "title": "Introduction to Amorphous Computing",
+    "year": 2004,
+    "notes": "",
+    "url": "https://doi.org/10.1007/11527800_8"
+  },
+  {
+    "title": "Discrete State Transition Systems on Continuous Space-Time: A Theoretical Model for Amorphous Computing",
+    "year": 2005,
+    "notes": "principalmente il modello teorico",
+    "url": "https://doi.org/10.1007/11560319_12"
+  },
+  {
+    "title": "Infrastructure for Engineered Emergence on Sensor/Actuator Networks",
+    "year": 2006,
+    "notes": "proto gradient, local average, reduce neighbors, dilate, channel, choose leader, bound, coordinates, distance, homeostasis (time gradient?), plane wave oscillator",
+    "url": "https://doi.org/10.1109/MIS.2006.29"
+  },
+  {
+    "title": "Morphogenesis as an amorphous computation",
+    "year": 2006,
+    "notes": "growth and regeneration, organizers > growing organizer, microtubule development mechanism, some patterns",
+    "url": "https://doi.org/10.1145/1128022.1128032"
+  },
+  {
+    "title": "Clustering Microarray Data Within Amorphous Computing Paradigm and Growing Neural Gas Algorithm",
+    "year": 2006,
+    "notes": "clustering",
+    "url": "https://doi.org/10.1007/11779568_87"
+  },
+  {
+    "title": "Building Blocks for Aggregate Programming of Self-Organising Applications (2014)",
+    "year": 2014,
+    "notes": "distance to, block G, max-likehood, broadcast, path-forecast, block C, summarize, average, integral, region max, find-parent, timer, limited memory, block S, distance avoiding obstacles, broadcast region, group size, recent event, crowd tracking, recently true, rt-sub, dangerous density, crowd warning",
+    "url": "https://doi.org/10.1109/SASOW.2014.6"
+  },
+  {
+    "title": "An Aggregate Computing Approach to Self-Stabilizing Leader Election",
+    "year": 2018,
+    "url": "https://doi.org/10.1109/FAS-W.2018.00034",
+    "notes": ""
+  },
+  {
+    "title": "Self-stabilising Priority-Based Multi-Leader Election and Network Partitioning",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/ACSOS55765.2022.00026",
+    "notes": ""
+  },
+  {
+    "title": "Design Patterns for Self-organising Systems",
+    "year": 2007,
+    "url": "https://doi.org/10.1007/978-3-540-75254-7_13",
+    "notes": "aggregation patter, diffusion pattern, evaporation"
+  },
+  {
+    "title": "MacroSwarm: A Field-Based Compositional Framework for Swarm Programming",
+    "year": 2023,
+    "url": "https://doi.org/10.1007/978-3-031-35361-1_2",
+    "notes": "macro swarm"
+  },
+  {
+    "title": "Programming Distributed Collective Processes in the eXchange Calculus",
+    "year": 2024,
+    "url": "https://doi.org/10.1007/978-3-031-51060-1",
+    "notes": "xc"
+  },
+  {
+    "title": "An Enhanced Exchange Operator for XC",
+    "year": 2024,
+    "url": "https://doi.org/10.1007/978-3-031-62697-5_8",
+    "notes": "xc"
+  },
+  {
+    "title": "Using Ant's Brood Sorting to Increase Fault Tolerance in Linda's Tuple Distribution Mechanism",
+    "year": 2007,
+    "url": "https://doi.org/10.1007/978-3-540-75119-9_18",
+    "notes": "decision phase, movement phase, collective sort instance"
+  }
+]
