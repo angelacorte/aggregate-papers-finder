@@ -43,3 +43,4 @@ bin/
 /.gradle/
 /.idea/
 /node_modules/
+/scripts/download/
