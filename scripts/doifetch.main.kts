@@ -40,7 +40,6 @@ val scihubFinder = Regex("""embed\s+type=\"application/pdf\"\s+src=\"([^#&]+.pdf
 
 data class Paper(val title: String, val year: Int, val doi: String)
 
-//var resp = emptyList<String>()
 val dois = authors.asSequence()
     .flatMap { authorUrl ->
         skrape(HttpFetcher) {
@@ -67,7 +66,7 @@ val dois = authors.asSequence()
     .toSet()
     .sortedBy { it.year }
 
-File("dois.txt").writeText(dois.map { "\n{ \"title\": \"${it.title}\", \"year\": ${it.year}, \"url\": \"https://doi.org/${it.doi}\", \"notes\": \"\"}" }.toString())
+File("dois.json").writeText(dois.map { "\n{ \"title\": \"${it.title}\", \"year\": ${it.year}, \"url\": \"https://doi.org/${it.doi}\", \"notes\": \"\"}" }.toString())
 
 val withLink = dois.map { "<p><a href=\"https://doi.org/${it.doi}\">${it.title} (${it.year})</a></p>\n" }
 File("dois.html").writeText(withLink.toString())
