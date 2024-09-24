@@ -48,28 +48,358 @@
     "url": "https://doi.org/10.1007/11779568_87"
   },
   {
-    "title": "Building Blocks for Aggregate Programming of Self-Organising Applications (2014)",
-    "year": 2014,
-    "notes": "distance to, block G, max-likehood, broadcast, path-forecast, block C, summarize, average, integral, region max, find-parent, timer, limited memory, block S, distance avoiding obstacles, broadcast region, group size, recent event, crowd tracking, recently true, rt-sub, dangerous density, crowd warning",
-    "url": "https://doi.org/10.1109/SASOW.2014.6"
+    "title": "Design Patterns for Self-organising Systems",
+    "year": 2007,
+    "url": "https://doi.org/10.1007/978-3-540-75254-7_13",
+    "notes": "aggregation patter, diffusion pattern, evaporation"
   },
   {
-    "title": "An Aggregate Computing Approach to Self-Stabilizing Leader Election",
-    "year": 2018,
-    "url": "https://doi.org/10.1109/FAS-W.2018.00034",
-    "notes": ""
+    "title": "Using Ant's Brood Sorting to Increase Fault Tolerance in Linda's Tuple Distribution Mechanism",
+    "year": 2007,
+    "url": "https://doi.org/10.1007/978-3-540-75119-9_18",
+    "notes": "decision phase, movement phase, collective sort instance"
   },
   {
-    "title": "Self-stabilising Priority-Based Multi-Leader Election and Network Partitioning",
-    "year": 2022,
-    "url": "https://doi.org/10.1109/ACSOS55765.2022.00026",
-    "notes": ""
+    "title": "A self-organising solution to the collective sort problem in distributed tuple spaces",
+    "year": 2007,
+    "url": "https://doi.org/10.1145/1244002.1244086",
+    "notes": "collective sorting (vacuum)"
+  },
+  {
+    "title": "On the Problem of Over-clustering in Tuple-based Coordination Systems",
+    "year": 2007,
+    "url": "https://doi.org/10.1109/SASO.2007.42",
+    "notes": "tuple distribution to not over cluster"
   },
   {
     "title": "Design Patterns for Self-organising Systems",
     "year": 2007,
     "url": "https://doi.org/10.1007/978-3-540-75254-7_13",
     "notes": "aggregation patter, diffusion pattern, evaporation"
+  },
+  {
+    "title": "Collective Sort and Emergent Patterns of Tuple Distribution in Grid-Like Networks",
+    "year": 2008,
+    "url": "https://doi.org/10.1109/WETICE.2008.21",
+    "notes": "collective sort in basic topologies network, for stronger information clustering, enhanced collective sort"
+  },
+  {
+    "title": "Fast self-healing gradients",
+    "year": 2008,
+    "url": "https://doi.org/10.1145/1363686.1364163",
+    "notes": "CRF-GRADIENT"
+  },
+  {
+    "title": "Empirical Characterization of Discretization Error in Gradient-Based Algorithms",
+    "year": 2008,
+    "url": "https://doi.org/10.1109/SASO.2008.53",
+    "notes": "planar gradient + error"
+  },
+  {
+    "title": "Applying Self-Organizing Coordination to Emergent Tuple Organization in Distributed Networks",
+    "year": 2008,
+    "url": "https://doi.org/10.1109/SASO.2008.18",
+    "notes": "tuple clustering and sorting"
+  },
+  {
+    "title": "Cells Are Plausible Targets for High-Level Spatial Languages",
+    "year": 2008,
+    "url": "https://doi.org/10.1109/SASOW.2008.14",
+    "notes": "proto band detector + genetic regulatory network"
+  },
+  {
+    "title": "An experience on probabilistic model checking and stochastic simulation to design self-organizing systems",
+    "year": 2009,
+    "url": "https://doi.org/10.1109/CEC.2009.4983125",
+    "notes": "collective sort model checking"
+  },
+  {
+    "title": "Biochemical Tuple Spaces for Self-organising Coordination",
+    "year": 2009,
+    "url": "https://doi.org/10.1007/978-3-642-02053-7_8",
+    "notes": "biochemical tuple competition in spatial system"
+  },
+  {
+    "title": "A framework for modelling and implementing self-organising coordination",
+    "year": 2009,
+    "url": "https://doi.org/10.1145/1529282.1529585",
+    "notes": "tucson tuple clustering, chemical-like coordination"
+  },
+  {
+    "title": "A mechanism for flexible dynamic trait replacement",
+    "year": 2009,
+    "url": "https://doi.org/10.1145/1557898.1557907",
+    "notes": "not sure but could be useful for runtime manipulation in collective OSs?"
+  },
+  {
+    "title": "Fast Self-stabilization for Gradients",
+    "year": 2009,
+    "url": "https://doi.org/10.1007/978-3-642-02085-8_2",
+    "notes": "proof of stabilization of CRF gradient"
+  },
+  {
+    "title": "Behavior modes for randomized robotic coverage",
+    "year": 2009,
+    "url": "https://doi.org/10.4108/ICST.ROBOCOMM2009.5863",
+    "notes": "randomize coalescence algorithm + convergence"
+  },
+  {
+    "title": "Flexible self-healing gradients",
+    "year": 2009,
+    "url": "https://doi.org/10.1145/1529282.1529550",
+    "notes": "flex-gradient"
+  },
+  {
+    "title": "AmorphousComputing",
+    "year": 2009,
+    "url": "https://jakebeal.github.io/Publications/MIT-CSAIL-TR-2007-030.pdf",
+    "notes": "model, primitives and references to examples"
+  },
+  {
+    "title": "Spatial Coordination of Pervasive Systems through Chemical-Inspired Tuple Spaces",
+    "year": 2010,
+    "url": "https://doi.org/10.1109/SASOW.2010.75",
+    "notes": "spatial competition, field attraction, path driven relocation, service segregation"
+  },
+  {
+    "title": "Composable continuous-space programs for robotic swarms",
+    "year": 2010,
+    "url": "https://doi.org/10.1007/S00521-010-0382-8",
+    "notes": "motion from vector fields, flock, cluster to, contour field, search and rescue, disperse, dilate, broadcast, grad, falling, "
+  },
+  {
+    "title": "Functional Blueprints: An Approach to Modularity in Grown Systems",
+    "year": 2010,
+    "url": "https://doi.org/10.1007/978-3-642-15461-4_16",
+    "notes": "growth of vascular tissue"
+  },
+  {
+    "title": "Distributed Control for Small Customer Energy Demand Management",
+    "year": 2010,
+    "url": "https://doi.org/10.1109/SASO.2010.21",
+    "notes": "algorithm to provide collaborative electricity demand shaping for residential and small-business customers"
+  },
+  {
+    "title": "A Basis Set of Operators for Space-Time Computations",
+    "year": 2010,
+    "url": "https://doi.org/10.1109/SASOW.2010.21",
+    "notes": "unifying theory of computation over continuous space-time in proto"
+  },
+  {
+    "title": "Dynamically Defined Processes for Spatial Computers",
+    "year": 2010,
+    "url": "https://doi.org/10.1109/SASOW.2010.74",
+    "notes": "processes in proto, tracking and reporting a flock"
+  },
+  {
+    "title": "Self-organising Pervasive Ecosystems: A Crowd Evacuation Example",
+    "year": 2011,
+    "url": "https://doi.org/10.1007/978-3-642-24124-6_12",
+    "notes": "SAPERE, fire, exit and crowd evacuation"
+  },
+  {
+    "title": "Description and composition of bio-inspired design patterns: the gradient case",
+    "year": 2011,
+    "url": "https://doi.org/10.1145/1998570.1998575",
+    "notes": "chemiotaxis, morphogenesis, quorum sensing, "
+  },
+  {
+    "title": "Core operational semantics of Proto",
+    "year": 2011,
+    "url": "https://doi.org/10.1145/1982185.1982472",
+    "notes": "proto semantics"
+  },
+  {
+    "title": "Functional blueprints: an approach to modularity in grown systems",
+    "year": 2011,
+    "url": "https://doi.org/10.1007/S11721-011-0056-X",
+    "notes": "different types of distortion, bisection, dilatation, shortest path, flex gradient, simmetry break, polka dot, tissue growth, vascularization, shapes (letters)"
+  },
+  {
+    "title": "An agent framework for agent societies",
+    "year": 2011,
+    "url": "https://doi.org/10.1145/2095050.2095082",
+    "notes": "proto task replication, sensor connection, shortest path, messaging, cluster creation, moving agents towards root, nav-grad, election, "
+  },
+  {
+    "title": "On the Evaluation of Space-Time Functions",
+    "year": 2011,
+    "url": "https://doi.org/10.1109/SASOW.2011.16",
+    "notes": "proto: pointwise operator, restriction operator, feedback operator, neighbor operator"
+  },
+  {
+    "title": "Using Morphogenetic Models to Develop Spatial Structures",
+    "year": 2011,
+    "url": "https://doi.org/10.1109/SASOW.2011.17",
+    "notes": "geometric operations: coordinatize, latch, scale, connect, speckle, "
+  },
+  {
+    "title": "Pervasive ecosystems: a coordination model based on semantic chemistry",
+    "year": 2012,
+    "url": "https://doi.org/10.1145/2245276.2245336",
+    "notes": "crowd steering in lsa"
+  },
+  {
+    "title": "A model for drosophila melanogaster development from a single cell to stripe pattern formation",
+    "year": 2012,
+    "url": "https://doi.org/10.1145/2245276.2231999",
+    "notes": "nuclear division, nuclear movement, molecule diffusion, molecule interaction"
+  },
+  {
+    "title": "Gradient-Based Self-Organisation Patterns of Anticipative Adaptation",
+    "year": 2012,
+    "url": "https://doi.org/10.1109/SASO.2012.25",
+    "notes": "anticipative gradient"
+  },
+  {
+    "title": "Self-Organising Semantic Resource Discovery for Pervasive Systems",
+    "year": 2012,
+    "url": "https://doi.org/10.1109/SASOW.2012.39",
+    "notes": "match algorithm, spreading, aggregation, gradient, chemiotaxis, route match information"
+  },
+  {
+    "title": "Toward Approximate Stochastic Model Checking of Computational Fields for Pervasive Computing Systems",
+    "year": 2012,
+    "url": "https://doi.org/10.1109/SASOW.2012.42",
+    "notes": "gradient in prism"
+  },
+  {
+    "title": "A manifold operator representation for adaptive design",
+    "year": 2012,
+    "url": "https://doi.org/10.1145/2330163.2330239",
+    "notes": "soft body tissue interaction"
+  },
+  {
+    "title": "Self-Stabilizing Robot Team Formation with Proto: IEEE Self-Adaptive and Self-Organizing Systems 2012 Demo Entry",
+    "year": 2012,
+    "url": "https://doi.org/10.1109/SASO.2012.43",
+    "notes": "random chain formation"
+  },
+  {
+    "title": "Amorphous computing: a research agenda for the near future",
+    "year": 2012,
+    "url": "https://doi.org/10.1007/S11047-011-9281-X",
+    "notes": "ideas for research in amorphous computing"
+  },
+  {
+    "title": "Chemical-oriented simulation of computational systems with ALCHEMIST",
+    "year": 2013,
+    "url": "https://doi.org/10.1057/JOS.2012.27",
+    "notes": "crowd steering case study in alchemist"
+  },
+  {
+    "title": "Combining self-organisation, context-awareness and semantic reasoning: the case of resource discovery in opportunistic networks",
+    "year": 2013,
+    "url": "https://doi.org/10.1145/2480362.2480619",
+    "notes": "semantic matching, spreading, aggregation, decay, gradient, chemotaxis"
+  },
+  {
+    "title": "Description and composition of bio-inspired design patterns: a complete overview",
+    "year": 2013,
+    "url": "https://doi.org/10.1007/S11047-012-9324-Y",
+    "notes": "many patterns: spreading, aggregation, evaporation, repulsion, gradient, digital pheromone, gossip, ant foraging, chemotaxis, morphogenesis, quorum sensing, flocking"
+  },
+  {
+    "title": "Engineering Pervasive Multiagent Systems in SAPERE",
+    "year": 2013,
+    "url": "https://doi.org/10.1007/978-3-642-45343-4_11",
+    "notes": "sapere: noise sensor, matching, bonding, service composition, aggregation, decay, spreading"
+  },
+  {
+    "title": "A Calculus of Computational Fields",
+    "year": 2013,
+    "url": "https://doi.org/10.1007/978-3-642-45364-9_11",
+    "notes": ""
+  },
+  {
+    "title": "On the Evaluation of Space-Time Functions",
+    "year": 2013,
+    "url": "https://doi.org/10.1093/COMJNL/BXS099",
+    "notes": "function call in proto"
+  },
+  {
+    "title": "Functional synthesis of genetic regulatory networks",
+    "year": 2013,
+    "url": "https://doi.org/10.1145/2505351.2505356",
+    "notes": "biosynthesis in proto"
+  },
+  {
+    "title": "Spatial Computing Meets Realistic Mobile Wireless Problems",
+    "year": 2013,
+    "url": "https://doi.org/10.1109/SASOW.2013.24",
+    "notes": "urban tracking scenario"
+  },
+  {
+    "title": "Web Proto: Aggregate Programming for Everyone",
+    "year": 2013,
+    "url": "https://doi.org/10.1109/SASOW.2013.12",
+    "notes": "web proto with references to tutorials and examples"
+  },
+  {
+    "title": "Superdiffusive Dispersion and Mixing of Swarms with Reactive Levy Walks",
+    "year": 2013,
+    "url": "https://doi.org/10.1109/SASO.2013.9",
+    "notes": "reactive levy walk, asymptotic levy walk dispersion (one and two dimensional), "
+  },
+  {
+    "title": "Distributed statistical analysis of complex systems modeled through a chemical metaphor",
+    "year": 2014,
+    "url": "https://doi.org/10.1109/HPCSIM.2014.6903715",
+    "notes": "crowd steering, multi vesta, multi quatex"
+  },
+  {
+    "title": "HPC from a self-organisation perspective: The case of crowd steering at the urban scale",
+    "year": 2014,
+    "url": "https://doi.org/10.1109/HPCSIM.2014.6903721",
+    "notes": "vienna city marathon"
+  },
+  {
+    "title": "Amorphous computing in the presence of stochastic disturbances",
+    "year": 2014,
+    "url": "https://doi.org/10.1016/J.BIOSYSTEMS.2014.09.010",
+    "notes": "line formation with different thickness, brownian motion, coping with random motion and noise"
+  },
+  {
+    "title": "Building Blocks for Aggregate Programming of Self-Organising Applications (2014)",
+    "year": 2014,
+    "notes": "distance to, block G, max-likehood, broadcast, path-forecast, block C, summarize, average, integral, region max, find-parent, timer, limited memory, block S, distance avoiding obstacles, broadcast region, group size, recent event, crowd tracking, recently true, rt-sub, dangerous density, crowd warning",
+    "url": "https://doi.org/10.1109/SASOW.2014.6"
+  },
+  {
+    "title": "Aggregate Programming for the Internet of Things",
+    "year": 2015,
+    "url": "https://doi.org/10.1109/MC.2015.261",
+    "notes": "protelis G, C, distance to, broadcast, summarize, limited memory, dangerous density, crowd tracking, crowd warning, "
+  },
+  {
+    "title": "Developing pervasive multi-agent systems with nature-inspired coordination",
+    "year": 2015,
+    "url": "https://doi.org/10.1016/J.PMCJ.2014.12.002",
+    "notes": "SAPERE eco-law and self org patterns"
+  },
+  {
+    "title": "Improving Gossip Dynamics Through Overlapping Replicates",
+    "year": 2016,
+    "url": "https://doi.org/10.1007/978-3-319-39519-7_12",
+    "notes": "gossip time replication"
+  },
+  {
+    "title": "An Aggregate Computing Approach to Self-Stabilizing Leader Election",
+    "year": 2018,
+    "url": "https://doi.org/10.1109/FAS-W.2018.00034",
+    "notes": "leader election"
+  },
+  {
+    "title": "Robots that Sync and Swarm: A Proof of Concept in ROS 2",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/MRS.2019.8901095",
+    "notes": "swarmalators, 5 patterns"
+  },
+  {
+    "title": "Self-stabilising Priority-Based Multi-Leader Election and Network Partitioning",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/ACSOS55765.2022.00026",
+    "notes": "multi leader election"
   },
   {
     "title": "MacroSwarm: A Field-Based Compositional Framework for Swarm Programming",
@@ -90,27 +420,9 @@
     "notes": "xc"
   },
   {
-    "title": "Using Ant's Brood Sorting to Increase Fault Tolerance in Linda's Tuple Distribution Mechanism",
-    "year": 2007,
-    "url": "https://doi.org/10.1007/978-3-540-75119-9_18",
-    "notes": "decision phase, movement phase, collective sort instance"
-  },
-  {
-    "title": "A self-organising solution to the collective sort problem in distributed tuple spaces",
-    "year": 2007,
-    "url": "https://doi.org/10.1145/1244002.1244086",
-    "notes": "collective sorting (vacuum)"
-  },
-  {
     "title": "ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design",
     "year": 2024,
     "url": "https://doi.org/10.1007/978-3-031-62697-5_14",
     "notes": "scafi blocks web"
-  },
-  {
-    "title": "On the Problem of Over-clustering in Tuple-based Coordination Systems",
-    "year": 2007,
-    "url": "https://doi.org/10.1109/SASO.2007.42",
-    "notes": "tuple distribution to not over cluster"
   }
 ]
