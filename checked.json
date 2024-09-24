@@ -378,6 +378,54 @@
     "notes": "SAPERE eco-law and self org patterns"
   },
   {
+    "title": "Extending the Gillespie's Stochastic Simulation Algorithm for Integrating Discrete-Event and Multi-Agent Based Simulation",
+    "year": 2015,
+    "url": "https://doi.org/10.1007/978-3-319-31447-1_1",
+    "notes": "gillespie stochastic simulation algorithm, crowd steering in london"
+  },
+  {
+    "title": "Multi-agent Systems Meet Aggregate Programming: Towards a Notion of Aggregate Plan",
+    "year": 2015,
+    "url": "https://doi.org/10.1007/978-3-319-25524-8_4",
+    "notes": "G, C, S, distance to, broadcast, share, channel, summarize, mean path obstacle, deploy, virtual machine, rescuers case study"
+  },
+  {
+    "title": "Protelis: practical aggregate programming",
+    "year": 2015,
+    "url": "https://doi.org/10.1145/2695664.2695913",
+    "notes": "channel, square, count, maxh, distance to (+ obstacle), rendez vous at mass event, descend"
+  },
+  {
+    "title": "Computational Fields Meet Augmented Reality: Perspectives and Challenges",
+    "year": 2015,
+    "url": "https://doi.org/10.1109/SASOW.2015.18",
+    "notes": "local density, summarize density, entities in range"
+  },
+  {
+    "title": "Efficient Engineering of Complex Self-Organising Systems by Self-Stabilising Fields",
+    "year": 2015,
+    "url": "https://doi.org/10.1109/SASO.2015.16",
+    "notes": "distance avoiding obstacles, G, distance to, pi, C, find parent, summarize, T, [G vs crf grad vs flex grad], [c vs multipath summation/combination], [t vs exponential filter], add range, opinion feedback, evacuation alert"
+  },
+  {
+    "title": "Formal foundations of sensor network applications",
+    "year": 2015,
+    "url": "https://doi.org/10.1145/2826686.2826693",
+    "notes": "gossip min, bounded gossip min"
+  },
+  {
+    "title": "Towards Agent Aggregates: Perspectives and Challenges",
+    "year": 2015,
+    "url": "https://doi.org/10.1007/978-3-319-26184-3_2",
+    "notes": "soliti + challenges"
+  },
+  {
+    "title": "Superdiffusive Dispersion and Mixing of Swarms",
+    "year": 2015,
+    "url": "https://doi.org/10.1145/2700322",
+    "notes": "reactive fast dispersion, reactive levy walk, many dispersions"
+  },
+  {
     "title": "Improving Gossip Dynamics Through Overlapping Replicates",
     "year": 2016,
     "url": "https://doi.org/10.1007/978-3-319-39519-7_12",
@@ -424,5 +472,29 @@
     "year": 2024,
     "url": "https://doi.org/10.1007/978-3-031-62697-5_14",
     "notes": "scafi blocks web"
+  },
+  {
+    "title": "Simulating Large-scale Aggregate MASs with Alchemist and Scala",
+    "year": 2016,
+    "url": "https://ieeexplore.ieee.org/document/7733449",
+    "notes": "G & compnay, C & company, T, S, distance competition, break using ids, restriction in space, smart vehicle counting, crowd tracking"
+  },
+  {
+    "title": "On execution platforms for large-scale aggregate computing",
+    "year": 2016,
+    "url": "https://doi.org/10.1145/2968219.2979129",
+    "notes": "dangerous density, random region"
+  },
+  {
+    "title": "Self-Adaptation to Device Distribution Changes",
+    "year": 2016,
+    "url": "https://doi.org/10.1109/SASO.2016.12",
+    "notes": "gossip ever, bisector, gpi, broadcast, channel, channel with obstacles, contextual distance"
+  },
+  {
+    "title": "Combining Self-Organisation and Autonomic Computing in CASs with Aggregate-MAPE",
+    "year": 2016,
+    "url": "https://doi.org/10.1109/FAS-W.2016.49",
+    "notes": "aggregate mape, density estimator, crowd tracking"
   }
 ]
