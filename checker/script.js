@@ -58,6 +58,30 @@ function renderToCheckTable() {
     });
 }
 
+async function deleteFromChecked(index) {
+    checked = checked.filter((_, i) => i !== index);
+    await updateChecked(checked);
+    renderCheckedTable();
+}
+
+async function moveToToCheck(index) {
+    const item = checked[index];
+    checked = checked.filter((_, i) => i !== index);
+    toCheck.push(item);
+    await updateChecked(checked);
+    await updateToCheck(toCheck);
+    renderToCheckTable();
+    renderCheckedTable();
+}
+
+async function editNotes(index) {
+    const item = checked[index];
+     // Prompt for new notes
+    checked[index].notes = prompt('Edit notes:', item.notes);
+    await updateChecked(checked);
+    renderCheckedTable();
+}
+
 // Function to render the 'Checked' table with an "Uncheck" button
 function renderCheckedTable() {
     const checkedTable = document.getElementById('checkedTable').getElementsByTagName('tbody')[0];
@@ -76,6 +100,26 @@ function renderCheckedTable() {
 
         row.insertCell(2).innerText = item.year;
         row.insertCell(3).innerText = item.notes;
+
+        const actionCell = row.insertCell(4);
+
+        // Delete Button
+        const deleteButton = document.createElement('button');
+        deleteButton.innerText = '✘'; // Represents delete
+        deleteButton.onclick = () => deleteFromChecked(index);
+        actionCell.appendChild(deleteButton);
+
+        // tocheck Button
+        const doubtButton = document.createElement('button');
+        doubtButton.innerText = '↻'; // Represents re-check
+        doubtButton.onclick = () => moveToToCheck(index);
+        actionCell.appendChild(doubtButton);
+
+        // Edit Notes Button
+        const editButton = document.createElement('button');
+        editButton.innerText = 'Edit Notes';
+        editButton.onclick = () => editNotes(index);
+        actionCell.appendChild(editButton);
     });
 }
 

@@ -432,6 +432,54 @@
     "notes": "gossip time replication"
   },
   {
+    "title": "Simulating Large-scale Aggregate MASs with Alchemist and Scala",
+    "year": 2016,
+    "url": "https://ieeexplore.ieee.org/document/7733449",
+    "notes": "G & compnay, C & company, T, S, distance competition, break using ids, restriction in space, smart vehicle counting, crowd tracking"
+  },
+  {
+    "title": "On execution platforms for large-scale aggregate computing",
+    "year": 2016,
+    "url": "https://doi.org/10.1145/2968219.2979129",
+    "notes": "dangerous density, random region"
+  },
+  {
+    "title": "Self-Adaptation to Device Distribution Changes",
+    "year": 2016,
+    "url": "https://doi.org/10.1109/SASO.2016.12",
+    "notes": "gossip ever, bisector, gpi, broadcast, channel, channel with obstacles, contextual distance"
+  },
+  {
+    "title": "Combining Self-Organisation and Autonomic Computing in CASs with Aggregate-MAPE",
+    "year": 2016,
+    "url": "https://doi.org/10.1109/FAS-W.2016.49",
+    "notes": "aggregate mape, density estimator, crowd tracking"
+  },
+  {
+    "title": "Run-Time Management of Computation Domains in Field Calculus",
+    "year": 2016,
+    "url": "https://doi.org/10.1109/FAS-W.2016.50",
+    "notes": "average, parametric gradient, combined restriction, updatable functions/metric"
+  },
+  {
+    "title": "Aggregate Programming: From Foundations to Applications",
+    "year": 2016,
+    "url": "https://doi.org/10.1007/978-3-319-34096-8_8",
+    "notes": "distance avoiding obstacles, G, T, C, broadcast, distance to, summarize, limited memory, add range, opinion feedback, dangerous density, crowd tracking, crowd warning"
+  },
+  {
+    "title": "Trading accuracy for speed in approximate consensus",
+    "year": 2016,
+    "url": "https://doi.org/10.1017/S0269888916000175",
+    "notes": "pld consensus in proto"
+  },
+  {
+    "title": "Opportunistic Sharing of Airborne Sensors",
+    "year": 2016,
+    "url": "https://doi.org/10.1109/DCOSS.2016.43",
+    "notes": "task assignment algorithm"
+  },
+  {
     "title": "An Aggregate Computing Approach to Self-Stabilizing Leader Election",
     "year": 2018,
     "url": "https://doi.org/10.1109/FAS-W.2018.00034",
@@ -474,27 +522,57 @@
     "notes": "scafi blocks web"
   },
   {
-    "title": "Simulating Large-scale Aggregate MASs with Alchemist and Scala",
-    "year": 2016,
-    "url": "https://ieeexplore.ieee.org/document/7733449",
-    "notes": "G & compnay, C & company, T, S, distance competition, break using ids, restriction in space, smart vehicle counting, crowd tracking"
+    "title": "Self-Adaptation to Device Distribution in the Internet of Things",
+    "year": 2017,
+    "url": "https://doi.org/10.1145/3105758",
+    "notes": "gossip ever, distance to, bisector, GPI, context-sensitive distance"
   },
   {
-    "title": "On execution platforms for large-scale aggregate computing",
-    "year": 2016,
-    "url": "https://doi.org/10.1145/2968219.2979129",
-    "notes": "dangerous density, random region"
+    "title": "Self-Stabilising Target Counting in Wireless Sensor Networks Using Euler Integration",
+    "year": 2017,
+    "url": "https://doi.org/10.1109/SASO.2017.10",
+    "notes": "target counting"
   },
   {
-    "title": "Self-Adaptation to Device Distribution Changes",
-    "year": 2016,
-    "url": "https://doi.org/10.1109/SASO.2016.12",
-    "notes": "gossip ever, bisector, gpi, broadcast, channel, channel with obstacles, contextual distance"
+    "title": "Towards a Foundational API for Resilient Distributed Systems Design",
+    "year": 2017,
+    "url": "https://doi.org/10.1109/FAS-W.2017.116",
+    "notes": "protelis-lang, multi-istance, meet the celebrity scenario, resource allocation scenario"
   },
   {
-    "title": "Combining Self-Organisation and Autonomic Computing in CASs with Aggregate-MAPE",
-    "year": 2016,
-    "url": "https://doi.org/10.1109/FAS-W.2016.49",
-    "notes": "aggregate mape, density estimator, crowd tracking"
+    "title": "Optimally-Self-Healing Distributed Gradient Structures Through Bounded Information Speed",
+    "year": 2017,
+    "url": "https://doi.org/10.1007/978-3-319-59746-1_4",
+    "notes": "basic gradient approach, gradient-based implementation (speed bias, rising value, smoothness, CRF gradient, flex gradient), BIS gradient, gradient through information speec, case study crwod steering to busy resources"
+  },
+  {
+    "title": "Compositional Blocks for Optimal Self-Healing Gradients",
+    "year": 2017,
+    "url": "https://doi.org/10.1109/SASO.2017.18",
+    "notes": "ALL(?) gradients: classic, flex, bis, svd, (detect), composite with metrics [gpsmetric, speedmetric], initial filtering, ULT"
+  },
+  {
+    "title": "Combining Trust and Aggregate Computing",
+    "year": 2017,
+    "url": "https://doi.org/10.1007/978-3-319-74781-1_34",
+    "notes": "trust gradient algorithm"
+  },
+  {
+    "title": "Maximizing the overall end-user satisfaction of data broadcast in wireless mesh networks",
+    "year": 2017,
+    "url": "https://doi.org/10.1016/J.JDA.2017.07.002",
+    "notes": "K-MRIB algorithm, broadcasting a common content into a wireless mesh network maximizing user satisfaction"
+  },
+  {
+    "title": "Error in Self-Stabilizing Spanning-Tree Estimation of Collective State",
+    "year": 2017,
+    "url": "https://doi.org/10.1109/FAS-W.2017.112",
+    "notes": "effects of distance estimator error"
+  },
+  {
+    "title": "Engineering Resilient Collective Adaptive Systems by Self-Stabilisation",
+    "year": 2018,
+    "url": "https://doi.org/10.1145/3177774",
+    "notes": "G, C, T + alternatives"
   }
 ]
