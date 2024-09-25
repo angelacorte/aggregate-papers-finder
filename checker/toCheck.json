@@ -1,72 +1,426 @@
 [
   {
-    "title": "From Field-Based Coordination to Aggregate Computing",
+    "title": "Robust Stability of Spreading Blocks in Aggregate Computing",
     "year": 2018,
-    "url": "https://doi.org/10.1007/978-3-319-92408-3_12",
+    "url": "https://doi.org/10.1109/CDC.2018.8618735",
     "notes": ""
   },
   {
-    "title": "Emerging Distributed Programming Paradigm for Cyber-Physical Systems Over LoRaWANs",
-    "year": 2018,
-    "url": "https://doi.org/10.1109/GLOCOMW.2018.8644518",
+    "title": "Modelling and simulation of Opportunistic IoT Services with Aggregate Computing",
+    "year": 2019,
+    "url": "https://doi.org/10.1016/J.FUTURE.2018.09.005",
     "notes": ""
   },
   {
-    "title": "Transparent Protection of Aggregate Computations from Byzantine Behaviours via Blockchain",
-    "year": 2018,
-    "url": "https://doi.org/10.1145/3284869.3284870",
+    "title": "A development approach for collective opportunistic Edge-of-Things services",
+    "year": 2019,
+    "url": "https://doi.org/10.1016/J.INS.2019.05.058",
     "notes": ""
   },
   {
-    "title": "Optimal single-path information propagation in gradient-based algorithms",
-    "year": 2018,
-    "url": "https://doi.org/10.1016/J.SCICO.2018.06.002",
+    "title": "From distributed coordination to field calculus and aggregate computing",
+    "year": 2019,
+    "url": "https://doi.org/10.1016/J.JLAMP.2019.100486",
     "notes": ""
   },
   {
-    "title": "Towards attack-resistant Aggregate Computing using trust mechanisms",
-    "year": 2018,
-    "url": "https://doi.org/10.1016/J.SCICO.2018.07.006",
+    "title": "A Higher-Order Calculus of Computational Fields",
+    "year": 2019,
+    "url": "https://doi.org/10.1145/3285956",
     "notes": ""
   },
   {
-    "title": "Space-Time Universality of Field Calculus",
-    "year": 2018,
-    "url": "https://doi.org/10.1007/978-3-319-92408-3_1",
+    "title": "The share Operator for Field-Based Coordination",
+    "year": 2019,
+    "url": "https://doi.org/10.1007/978-3-030-22397-7_4",
     "notes": ""
   },
   {
-    "title": "Distributed Real-Time Shortest-Paths Computations with the Field Calculus",
-    "year": 2018,
-    "url": "https://doi.org/10.1109/RTSS.2018.00013",
+    "title": "Self-organising Coordination Regions:A A Pattern for Edge Computing",
+    "year": 2019,
+    "url": "https://doi.org/10.1007/978-3-030-22397-7_11",
     "notes": ""
   },
   {
-    "title": "Collective Abstractions and Platforms for Large-Scale Self-Adaptive IoT",
-    "year": 2018,
-    "url": "https://doi.org/10.1109/FAS-W.2018.00033",
+    "title": "Aggregate Processes in Field Calculus",
+    "year": 2019,
+    "url": "https://doi.org/10.1007/978-3-030-22397-7_12",
     "notes": ""
   },
   {
-    "title": "Opportunistic cyberphysical services: A novel paradigm for the future Internet of Things",
-    "year": 2018,
-    "url": "https://doi.org/10.1109/WF-IOT.2018.8355174",
+    "title": "On a Higher-Order Calculus of Computational Fields",
+    "year": 2019,
+    "url": "https://doi.org/10.1007/978-3-030-21759-4_17",
     "notes": ""
   },
   {
-    "title": "Programming (and Learning) Self-Adaptive & Self-Organising Behaviour with ScaFi: A for Swarms, Edge-Cloud Ecosystems, and More",
+    "title": "Security in Collective Adaptive Systems:A A Roadmap",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/FAS-W.2019.00034",
+    "notes": ""
+  },
+  {
+    "title": "On Context-Orientation in Aggregate Programming",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/FAS-W.2019.00035",
+    "notes": ""
+  },
+  {
+    "title": "Field-based Coordination with the Share Operator",
+    "year": 2019,
+    "url": "https://doi.org/10.1007/978-3-030-05333-8",
+    "notes": ""
+  },
+  {
+    "title": "Engineering Resilient Collaborative Edge-Enabled IoT",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/SCC.2019.00019",
+    "notes": ""
+  },
+  {
+    "title": "Fluidware:A An Approach Towards Adaptive and Scalable Programming of the IoT",
+    "year": 2019,
+    "url": "https://doi.org/10.1007/978-3-030-21485-2_22",
+    "notes": ""
+  },
+  {
+    "title": "Big data from the cloud to the edge:A the aggregate computing solution",
+    "year": 2019,
+    "url": "https://doi.org/10.1145/3344948.3344988",
+    "notes": ""
+  },
+  {
+    "title": "Coordinating Computation at the Edge:A a Decentralized, Self-Organizing, Spatial Approach",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/FMEC.2019.8795355",
+    "notes": ""
+  },
+  {
+    "title": "Towards Adaptive Flow Programming for the IoT:A The Fluidware Approach",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/PERCOMW.2019.8730736",
+    "notes": ""
+  },
+  {
+    "title": "Recommending Tasks in Online Judges",
+    "year": 2019,
+    "url": "https://doi.org/10.1007/978-3-030-23990-9_16",
+    "notes": ""
+  },
+  {
+    "title": "Robustness of the Adaptive Bellman -Ford Algorithm:A Global Stability and Ultimate Bounds",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/TAC.2019.2904239",
+    "notes": ""
+  },
+  {
+    "title": "A Framework for Self-Adaptive Dispersal of Computing Services",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/FAS-W.2019.00036",
+    "notes": ""
+  },
+  {
+    "title": "Opportunities and Challenges in Applying Artificial Intelligence to Bioengineering",
+    "year": 2019,
+    "url": "https://doi.org/10.1007/978-3-030-17297-8_16",
+    "notes": ""
+  },
+  {
+    "title": "Pulverization in Cyber-Physical Systems:A Engineering the Self-Organizing Logic Separated from Deployment",
+    "year": 2020,
+    "url": "https://doi.org/10.1109/ACSOS52086.2021",
+    "notes": ""
+  },
+  {
+    "title": "On the Social Implications of Collective Adaptive Systems",
+    "year": 2020,
+    "url": "https://doi.org/10.1109/MTS.2020.3012324",
+    "notes": ""
+  },
+  {
+    "title": "Time-Fluid Field-Based Coordination",
+    "year": 2020,
+    "url": "https://doi.org/10.1007/978-3-030-50029-0_13",
+    "notes": ""
+  },
+  {
+    "title": "Collective Adaptive Systems as Coordination Media:A The Case of Tuples in Space-Time",
+    "year": 2020,
+    "url": "https://doi.org/10.1109/ACSOS-C51401.2020.00045",
+    "notes": ""
+  },
+  {
+    "title": "Resilient Distributed Collection Through Information Speed Thresholds",
+    "year": 2020,
+    "url": "https://doi.org/10.1007/978-3-030-50029-0_14",
+    "notes": ""
+  },
+  {
+    "title": "FScaFi :A A Core Calculus for Collective Adaptive Systems Programming",
+    "year": 2020,
+    "url": "https://doi.org/10.1007/978-3-030-61470-6_21",
+    "notes": ""
+  },
+  {
+    "title": "FCPP:A an efficient and extensible Field Calculus framework",
+    "year": 2020,
+    "url": "https://doi.org/10.1109/ACSOS49614.2020.00037",
+    "notes": ""
+  },
+  {
+    "title": "Field-based Coordination with the Share Operator",
+    "year": 2020,
+    "url": "https://doi.org/10.1007/978-3-030-78142-2",
+    "notes": ""
+  },
+  {
+    "title": "Optimal resilient distributed data collection in mobile edge environments",
+    "year": 2021,
+    "url": "https://doi.org/10.1016/J.COMPELECENG.2021.107580",
+    "notes": ""
+  },
+  {
+    "title": "Engineering collective intelligence at the edge with aggregate processes",
+    "year": 2021,
+    "url": "https://doi.org/10.1016/J.ENGAPPAI.2020.104081",
+    "notes": ""
+  },
+  {
+    "title": "Partitioned integration and coordination via the self-organising coordination regions pattern",
+    "year": 2021,
+    "url": "https://doi.org/10.1016/J.FUTURE.2020.07.032",
+    "notes": ""
+  },
+  {
+    "title": "Aggregate centrality measures for IoT-based coordination",
+    "year": 2021,
+    "url": "https://doi.org/10.1016/J.SCICO.2020.102584",
+    "notes": ""
+  },
+  {
+    "title": "Towards Pulverised Architectures for Collective Adaptive Systems through Multi-Tier Programming",
+    "year": 2021,
+    "url": "https://doi.org/10.1109/ACSOS-C52956.2021.00033",
+    "notes": ""
+  },
+  {
+    "title": "ScaFi-Web:A A Web-Based Application for Field-Based Coordination Programming",
+    "year": 2021,
+    "url": "https://doi.org/10.1007/978-3-030-78142-2_18",
+    "notes": ""
+  },
+  {
+    "title": "Simulation of Large Scale Computational Ecosystems with Alchemist:A A Tutorial",
+    "year": 2021,
+    "url": "https://doi.org/10.1007/978-3-030-78198-9_10",
+    "notes": ""
+  },
+  {
+    "title": "Adaptive distributed monitors of spatial properties for cyber-physical systems",
+    "year": 2021,
+    "url": "https://doi.org/10.1016/J.JSS.2021.110908",
+    "notes": ""
+  },
+  {
+    "title": "Augmented Collective Digital Twins for Self-Organising Cyber-Physical Systems",
+    "year": 2021,
+    "url": "https://doi.org/10.1109/ACSOS-C52956.2021.00051",
+    "notes": ""
+  },
+  {
+    "title": "Tuple-Based Coordination in Large-Scale Situated Systems",
+    "year": 2021,
+    "url": "https://doi.org/10.1007/978-3-030-78142-2_10",
+    "notes": ""
+  },
+  {
+    "title": "Fostering resilient execution of multi-agent plans through self-organisation",
+    "year": 2021,
+    "url": "https://doi.org/10.1109/ACSOS-C52956.2021.00076",
+    "notes": ""
+  },
+  {
+    "title": "Towards Integration of Multi-Agent Planning with Self-Organising Collective Processes",
+    "year": 2021,
+    "url": "https://doi.org/10.1109/ACSOS-C52956.2021.00042",
+    "notes": ""
+  },
+  {
+    "title": "Effect of Monotonic Filtering on Graph Collection Dynamics",
+    "year": 2021,
+    "url": "https://doi.org/10.1109/ACSOS-C52956.2021.00036",
+    "notes": ""
+  },
+  {
+    "title": "Towards aggregate monitoring of spatio-temporal properties",
+    "year": 2021,
+    "url": "https://doi.org/10.1145/3464974.3468448",
+    "notes": ""
+  },
+  {
+    "title": "Static analysis and family-based model checking of featured transition systems with VMC",
+    "year": 2021,
+    "url": "https://doi.org/10.1145/3461002.3473071",
+    "notes": ""
+  },
+  {
+    "title": "Static analysis and family-based model checking with VMC",
+    "year": 2021,
+    "url": "https://doi.org/10.1145/3461001.3472732",
+    "notes": ""
+  },
+  {
+    "title": "Priority-enabled Load Balancing for Dispersed Computing",
+    "year": 2021,
+    "url": "https://doi.org/10.1109/ICFEC51620.2021.00009",
+    "notes": ""
+  },
+  {
+    "title": "Research directions for Aggregate Computing with Machine Learning",
+    "year": 2021,
+    "url": "https://doi.org/10.1109/ACSOS-C52956.2021.00078",
+    "notes": ""
+  },
+  {
+    "title": "A Collective Adaptive Approach to Decentralised k-Coverage in Multi-robot Systems",
+    "year": 2022,
+    "url": "https://doi.org/10.1145/3547145",
+    "notes": ""
+  },
+  {
+    "title": "Self-stabilising Priority-Based Multi-Leader Election and Network Partitioning",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/ACSOS55765.2022.00026",
+    "notes": ""
+  },
+  {
+    "title": "Space-Fluid Adaptive Sampling:A A Field-Based, Self-organising Approach",
+    "year": 2022,
+    "url": "https://doi.org/10.1007/978-3-031-08143-9_7",
+    "notes": ""
+  },
+  {
+    "title": "Towards Automated Engineering for Collective Adaptive Systems:A Vision and Research Directions",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/DASC/PICOM/CBDCOM/CY55231.2022.9927839",
+    "notes": ""
+  },
+  {
+    "title": "Dynamic decentralization domains for the Internet of Things - Simulation Repository",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/ACSOS55765.2022",
+    "notes": ""
+  },
+  {
+    "title": "Distributed runtime verification by past-CTL and the field calculus",
+    "year": 2022,
+    "url": "https://doi.org/10.1016/J.JSS.2022.111251",
+    "notes": ""
+  },
+  {
+    "title": "Addressing Collective Computations Efficiency:A Towards a Platform-level Reinforcement Learning Approach",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/ACSOS55765.2022.00019",
+    "notes": ""
+  },
+  {
+    "title": "Towards Reinforcement Learning-based Aggregate Computing",
+    "year": 2022,
+    "url": "https://doi.org/10.1007/978-3-031-08143-9_5",
+    "notes": ""
+  },
+  {
+    "title": "Machine Learning for Aggregate Computing:A a Research Roadmap",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/ICDCSW56584.2022.00032",
+    "notes": ""
+  },
+  {
+    "title": "Dynamic decentralization domains for the Internet of Things - Simulation Repository",
+    "year": 2022,
+    "url": "https://doi.org/10.21227/QGBP-W789",
+    "notes": ""
+  },
+  {
+    "title": "On the Dynamic Evolution of Distributed Computational Aggregates",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/ACSOSC56246.2022.00024",
+    "notes": ""
+  },
+  {
+    "title": "Near-optimal knowledge-free resilient leader election",
+    "year": 2022,
+    "url": "https://doi.org/10.1145/3605159",
+    "notes": ""
+  },
+  {
+    "title": "Aggregate processes as distributed adaptive services for the Industrial Internet of Things",
+    "year": 2022,
+    "url": "https://doi.org/10.1016/J.PMCJ.2022.101658",
+    "notes": ""
+  },
+  {
+    "title": "Extensible 3D Simulation of Aggregated Systems with FCPP",
+    "year": 2022,
+    "url": "https://doi.org/10.1007/978-3-031-08143-9_4",
+    "notes": ""
+  },
+  {
+    "title": "Aggregate Drone Monitoring of Wildfires",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/DASC/PICOM/CBDCOM/CY55231.2022.9927785",
+    "notes": ""
+  },
+  {
+    "title": "Bringing Aggregate Programming Towards the Cloud",
+    "year": 2022,
+    "url": "https://doi.org/10.1007/978-3-031-19759-8_19",
+    "notes": ""
+  },
+  {
+    "title": "Efficient static analysis and verification of featured transition systems",
+    "year": 2022,
+    "url": "https://doi.org/10.1007/S10664-020-09930-8",
+    "notes": ""
+  },
+  {
+    "title": "On logical and extensional characterizations of attributed feature models",
+    "year": 2022,
+    "url": "https://doi.org/10.1016/J.TCS.2022.01.016",
+    "notes": ""
+  },
+  {
+    "title": "Towards a Modular and Variability-Aware Aerodynamic Simulator",
+    "year": 2022,
+    "url": "https://doi.org/10.1007/978-3-031-08166-8_8",
+    "notes": ""
+  },
+  {
+    "title": "Near-optimal knowledge-free resilient leader election",
+    "year": 2022,
+    "url": "https://doi.org/10.1016/J.AUTOMATICA.2022.110583",
+    "notes": ""
+  },
+  {
+    "title": "A Lyapunov Analysis of a Most Probable Path Finding Algorithm",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/LCSYS.2021.3088260",
+    "notes": ""
+  },
+  {
+    "title": "Programming (and Learning) Self-Adaptive & Self-Organising Behaviour with ScaFi:A for Swarms, Edge-Cloud Ecosystems, and More",
     "year": 2023,
     "url": "https://doi.org/10.1109/ACSOS-C58168.2023.00032",
     "notes": ""
   },
   {
-    "title": "Self-Organisation Programming: A Functional Reactive Macro Approach",
+    "title": "Self-Organisation Programming:A A Functional Reactive Macro Approach",
     "year": 2023,
     "url": "https://doi.org/10.1109/ACSOS58161.2023.00026",
     "notes": ""
   },
   {
-    "title": "Infrastructures for the Edge-Cloud Continuum on a Small Scale: A Practical Case Study",
+    "title": "Infrastructures for the Edge-Cloud Continuum on a Small Scale:A A Practical Case Study",
     "year": 2023,
     "url": "https://doi.org/10.1109/ACSOS-C58168.2023.00052",
     "notes": ""
@@ -84,7 +438,7 @@
     "notes": ""
   },
   {
-    "title": "ScaRLib: A Framework for Cooperative Many Agent Deep Reinforcement Learning in Scala",
+    "title": "ScaRLib:A A Framework for Cooperative Many Agent Deep Reinforcement Learning in Scala",
     "year": 2023,
     "url": "https://doi.org/10.1007/978-3-031-35361-1_3",
     "notes": ""
@@ -102,25 +456,19 @@
     "notes": ""
   },
   {
-    "title": "Artificial Collective Intelligence Engineering: A Survey of Concepts and Perspectives",
+    "title": "Artificial Collective Intelligence Engineering:A A Survey of Concepts and Perspectives",
     "year": 2023,
     "url": "https://doi.org/10.1162/ARTL_A_00408",
     "notes": ""
   },
   {
-    "title": "Macroprogramming: Concepts, State of the Art, and Opportunities of Macroscopic Behaviour Modelling",
+    "title": "Macroprogramming:A Concepts, State of the Art, and Opportunities of Macroscopic Behaviour Modelling",
     "year": 2023,
     "url": "https://doi.org/10.1145/3579353",
     "notes": ""
   },
   {
-    "title": "Preface for the special issue on tool papers of the 23rd International Conference on Coordination Models and Languages, COORDINATION 2021",
-    "year": 2023,
-    "url": "https://doi.org/10.1016/J.SCICO.2022.102899",
-    "notes": ""
-  },
-  {
-    "title": "FCPP+Miosix: Scaling Aggregate Programming to Embedded Systems",
+    "title": "FCPP%2BMiosix:A Scaling Aggregate Programming to Embedded Systems",
     "year": 2023,
     "url": "https://doi.org/10.1109/TPDS.2022.3232633",
     "notes": ""
@@ -150,6 +498,12 @@
     "notes": ""
   },
   {
+    "title": "Deltas for Functional Programs with Algebraic Data Types",
+    "year": 2023,
+    "url": "https://doi.org/10.1145/3579027.3608977",
+    "notes": ""
+  },
+  {
     "title": "On Stream Runtime Verification and Aggregate Programming",
     "year": 2023,
     "url": "https://doi.org/10.1145/3605159.3605854",
@@ -174,6 +528,12 @@
     "notes": ""
   },
   {
+    "title": "Concurrency Model of BDI Programming Frameworks:A Why Should We Control It:",
+    "year": 2024,
+    "url": "https://doi.org/10.5555/3635637.3663089",
+    "notes": ""
+  },
+  {
     "title": "Field-Based Coordination for Federated Learning",
     "year": 2024,
     "url": "https://doi.org/10.1007/978-3-031-62697-5_4",
@@ -189,12 +549,6 @@
     "title": "FCPP to aggregate them all",
     "year": 2024,
     "url": "https://doi.org/10.1016/J.SCICO.2023.103026",
-    "notes": ""
-  },
-  {
-    "title": "Preface for the special issue on tool papers of the 17th International Federated Conference on Distributed Computing Techniques, DisCoTec 2022",
-    "year": 2024,
-    "url": "https://doi.org/10.1016/J.SCICO.2024.103096",
     "notes": ""
   }
 ]

@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 // Endpoint to update the checked JSON
 app.post('/updateChecked', (req, res) => {
     console.log('Received update for checked.json');
-    fs.writeFile('./checker/checked.json', JSON.stringify(req.body, null, 2), (err) => {
+    fs.writeFile('./checked.json', JSON.stringify(req.body, null, 2), (err) => {
         if (err) {
             console.error('Error writing to checked.json:', err); // Log error
             return res.status(500).send('Error writing to checked.json');
@@ -24,7 +24,7 @@ app.post('/updateChecked', (req, res) => {
 // Endpoint to update the toCheck JSON
 app.post('/updateToCheck', (req, res) => {
     console.log('Received update for toCheck.json');
-    fs.writeFile('./checker/toCheck.json', JSON.stringify(req.body, null, 2), (err) => {
+    fs.writeFile('./toCheck.json', JSON.stringify(req.body, null, 2), (err) => {
         if (err) {
             return res.status(500).send('Error writing to toCheck.json');
         }

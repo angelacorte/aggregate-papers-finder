@@ -480,48 +480,6 @@
     "notes": "task assignment algorithm"
   },
   {
-    "title": "An Aggregate Computing Approach to Self-Stabilizing Leader Election",
-    "year": 2018,
-    "url": "https://doi.org/10.1109/FAS-W.2018.00034",
-    "notes": "leader election"
-  },
-  {
-    "title": "Robots that Sync and Swarm: A Proof of Concept in ROS 2",
-    "year": 2019,
-    "url": "https://doi.org/10.1109/MRS.2019.8901095",
-    "notes": "swarmalators, 5 patterns"
-  },
-  {
-    "title": "Self-stabilising Priority-Based Multi-Leader Election and Network Partitioning",
-    "year": 2022,
-    "url": "https://doi.org/10.1109/ACSOS55765.2022.00026",
-    "notes": "multi leader election"
-  },
-  {
-    "title": "MacroSwarm: A Field-Based Compositional Framework for Swarm Programming",
-    "year": 2023,
-    "url": "https://doi.org/10.1007/978-3-031-35361-1_2",
-    "notes": "macro swarm"
-  },
-  {
-    "title": "Programming Distributed Collective Processes in the eXchange Calculus",
-    "year": 2024,
-    "url": "https://doi.org/10.1007/978-3-031-51060-1",
-    "notes": "xc"
-  },
-  {
-    "title": "An Enhanced Exchange Operator for XC",
-    "year": 2024,
-    "url": "https://doi.org/10.1007/978-3-031-62697-5_8",
-    "notes": "xc"
-  },
-  {
-    "title": "ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design",
-    "year": 2024,
-    "url": "https://doi.org/10.1007/978-3-031-62697-5_14",
-    "notes": "scafi blocks web"
-  },
-  {
     "title": "Self-Adaptation to Device Distribution in the Internet of Things",
     "year": 2017,
     "url": "https://doi.org/10.1145/3105758",
@@ -574,5 +532,78 @@
     "year": 2018,
     "url": "https://doi.org/10.1145/3177774",
     "notes": "G, C, T + alternatives"
+  },
+  {
+    "title": "Optimal single-path information propagation in gradient-based algorithms",
+    "year": 2018,
+    "url": "https://doi.org/10.1016/J.SCICO.2018.06.002",
+    "notes": "gradients: classic, crf, flex, bis, bis flex, G bis, G, G', broadcast, distance, elliptic channel, rectangular channel, channel communication, multipath"
+  },
+  {
+    "title": "Towards attack-resistant Aggregate Computing using trust mechanisms",
+    "year": 2018,
+    "url": "https://doi.org/10.1016/J.SCICO.2018.07.006",
+    "notes": "trust implementation in scafi"
+  },
+  {
+    "title": "An Aggregate Computing Approach to Self-Stabilizing Leader Election",
+    "year": 2018,
+    "url": "https://doi.org/10.1109/FAS-W.2018.00034",
+    "notes": "leader election"
+  },
+  {
+    "title": "Space-Time Universality of Field Calculus",
+    "year": 2018,
+    "url": "https://doi.org/10.1007/978-3-319-92408-3_1",
+    "notes": "gather, next complete event, f delayed "
+  },
+  {
+    "title": "Distributed Real-Time Shortest-Paths Computations with the Field Calculus",
+    "year": 2018,
+    "url": "https://doi.org/10.1109/RTSS.2018.00013",
+    "notes": "gradient, enhanced gradient"
+  },
+  {
+    "title": "Robots that Sync and Swarm: A Proof of Concept in ROS 2",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/MRS.2019.8901095",
+    "notes": "swarmalators, 5 patterns"
+  },
+  {
+    "title": "Self-stabilising Priority-Based Multi-Leader Election and Network Partitioning",
+    "year": 2022,
+    "url": "https://doi.org/10.1109/ACSOS55765.2022.00026",
+    "notes": "multi leader election"
+  },
+  {
+    "title": "MacroSwarm: A Field-Based Compositional Framework for Swarm Programming",
+    "year": 2023,
+    "url": "https://doi.org/10.1007/978-3-031-35361-1_2",
+    "notes": "macro swarm"
+  },
+  {
+    "title": "Self-Organisation Programming: A Functional Reactive Macro Approach",
+    "year": 2023,
+    "url": "https://doi.org/10.1109/ACSOS58161.2023.00026",
+    "notes": "distance between, gradient, broadcast, channel in FRASP"
+  },
+
+  {
+    "title": "Programming Distributed Collective Processes in the eXchange Calculus",
+    "year": 2024,
+    "url": "https://doi.org/10.1007/978-3-031-51060-1",
+    "notes": "xc"
+  },
+  {
+    "title": "An Enhanced Exchange Operator for XC",
+    "year": 2024,
+    "url": "https://doi.org/10.1007/978-3-031-62697-5_8",
+    "notes": "xc"
+  },
+  {
+    "title": "ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design",
+    "year": 2024,
+    "url": "https://doi.org/10.1007/978-3-031-62697-5_14",
+    "notes": "scafi blocks web"
   }
 ]
