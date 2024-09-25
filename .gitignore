@@ -44,3 +44,4 @@ bin/
 /.idea/
 /node_modules/
 /scripts/download/
+/checker/node_modules/
