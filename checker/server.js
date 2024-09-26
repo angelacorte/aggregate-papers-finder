@@ -8,28 +8,41 @@ const PORT = 3000;
 app.use(cors());
 app.use(bodyParser.json());
 
-// Endpoint to update the checked JSON
+// Helper function to update a category JSON file
+const updateCategory = (category, data, res) => {
+    const filePath = `./sources/${category}.json`;
+    fs.writeFile(filePath, JSON.stringify(data, null, 2), (err) => {
+        if (err) {
+            console.error(`Error writing to ${category}.json:`, err);
+            return res.status(500).send(`Error writing to ${category}.json`);
+        }
+        res.send(`${category}.json updated successfully`);
+    });
+};
+
+// Endpoint to update checked JSON
 app.post('/updateChecked', (req, res) => {
     console.log('Received update for checked.json');
-    fs.writeFile('./checked.json', JSON.stringify(req.body, null, 2), (err) => {
-        if (err) {
-            console.error('Error writing to checked.json:', err); // Log error
-            return res.status(500).send('Error writing to checked.json');
-        }
-        res.send('checked.json updated successfully');
-    });
+    updateCategory('checked', req.body, res);
 });
 
-
-// Endpoint to update the toCheck JSON
+// Endpoint to update toCheck JSON
 app.post('/updateToCheck', (req, res) => {
     console.log('Received update for toCheck.json');
-    fs.writeFile('./toCheck.json', JSON.stringify(req.body, null, 2), (err) => {
-        if (err) {
-            return res.status(500).send('Error writing to toCheck.json');
-        }
-        res.send('toCheck.json updated successfully');
-    });
+    updateCategory('toCheck', req.body, res);
+});
+
+// Generic endpoint for category updates
+app.post('/updateCategory/:category', (req, res) => {
+    const category = req.params.category;
+    const validCategories = ['accumulation', 'leadership', 'learning', 'processes', 'spreading', 'time'];
+
+    if (!validCategories.includes(category)) {
+        return res.status(400).send('Invalid category');
+    }
+
+    console.log(`Received update for ${category}.json`);
+    updateCategory(category, req.body, res);
 });
 
 // Start the server

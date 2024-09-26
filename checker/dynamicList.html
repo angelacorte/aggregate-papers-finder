@@ -1,57 +1,73 @@
 <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Check and Save Data</title>
-        <style>
-            table {
-                width: 100%;
-                border-collapse: collapse;
-                margin-bottom: 20px;
-            }
-            th, td {
-                padding: 10px;
-                border: 1px solid black;
-                text-align: left;
-            }
-            th {
-                background-color: #f2f2f2;
-            }
-        </style>
-    </head>
-    <body>
-    <p>Note: editable only locally. Pushing will update this table</p>
-        <h2>To Check</h2>
-        <table id="toCheckTable">
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>Title</th>
-                    <th>Year</th>
-                    <th>Notes</th>
-                    <th>Action</th>
-                </tr>
-            </thead>
-            <tbody></tbody>
-        </table>
-    
-        <h2>Checked</h2> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check and Save Data</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid black;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .table-section {
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+<p>Note: editable only locally. Pushing will update this table</p>
 
-        <table id="checkedTable">
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>Title</th>
-                    <th>Year</th>
-                    <th>Notes</th>
-                    <th>Action</th>
-                </tr>
-            </thead>
-            <tbody></tbody>
-        </table>
-    
-        <script src="script.js"></script>
-    </body>
-    </html>
-    
+<div id="tables-container"></div>
+
+<script>
+    // Data structure to hold the table configurations
+    const tablesConfig = [
+        { id: 'toCheckTable', title: 'To Check' },
+        { id: 'checkedTable', title: 'Checked' },
+        { id: 'accumulationTable', title: 'Accumulation' },
+        { id: 'leadershipTable', title: 'Leadership' },
+        { id: 'learningTable', title: 'Learning' },
+        { id: 'processesTable', title: 'Processes' },
+        { id: 'spreadingTable', title: 'Spreading' },
+        { id: 'timeTable', title: 'Time' }
+    ];
+
+    // Function to create a table structure dynamically
+    function createTable(id, title) {
+        return `
+                <div class="table-section">
+                    <h2>${title}</h2>
+                    <table id="${id}">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Title</th>
+                                <th>Year</th>
+                                <th>Notes</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>`;
+    }
+
+    // Render all tables dynamically
+    const tablesContainer = document.getElementById('tables-container');
+    tablesConfig.forEach(table => {
+        tablesContainer.innerHTML += createTable(table.id, table.title);
+    });
+</script>
+
+<script src="script.js"></script>
+</body>
+</html>
