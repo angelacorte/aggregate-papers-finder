@@ -1,6 +1,8 @@
 let toCheck = [];
 let checked = [];
 let accumulation = [];
+let general = [];
+let interesting = [];
 let leadership = [];
 let learning = [];
 let processes = [];
@@ -25,6 +27,7 @@ async function loadJsonData() {
 
         // Load each category's JSON data
         accumulation = await loadCategoryData('accumulation');
+        general = await loadCategoryData('general');
         leadership = await loadCategoryData('leadership');
         learning = await loadCategoryData('learning');
         processes = await loadCategoryData('processes');
@@ -35,11 +38,13 @@ async function loadJsonData() {
         renderToCheckTable();
         renderCheckedTable();
         renderCategoryTable('accumulationTable', accumulation, 'accumulation');
+        renderCategoryTable('generalTable', general, 'general');
         renderCategoryTable('leadershipTable', leadership, 'leadership');
         renderCategoryTable('learningTable', learning, 'learning');
         renderCategoryTable('processesTable', processes, 'processes');
         renderCategoryTable('spreadingTable', spreading, 'spreading');
         renderCategoryTable('timeTable', time, 'time');
+        renderCategoryTable('interestingTable', interesting, 'interesting');
     } catch (error) {
         console.error('Error loading JSON data:', error);
     }
@@ -152,6 +157,18 @@ function renderCheckedTable() {
         moveTimeButton.onclick = () => moveToCategory(index, 'time');
         actionCell.appendChild(moveTimeButton);
 
+        //Move to general button
+        const moveGeneralButton = document.createElement('button');
+        moveGeneralButton.innerText = 'Move to General';
+        moveGeneralButton.onclick = () => moveToCategory(index, 'general');
+        actionCell.appendChild(moveGeneralButton);
+
+        //move to interesting
+        const moveInterestingButton = document.createElement('button');
+        moveInterestingButton.innerText = 'Interesting but not stdlib';
+        moveInterestingButton.onclick = () => moveToCategory(index, 'interesting');
+        actionCell.appendChild(moveInterestingButton);
+
         // Delete Button
         const deleteButton = document.createElement('button');
         deleteButton.innerText = '✘'; // Represents delete
@@ -185,6 +202,10 @@ async function moveToCategory(index, category) {
             accumulation.push(item);
             await updateCategory('accumulation', accumulation);
             break;
+        case 'general':
+            general.push(item);
+            await updateCategory('general', general);
+            break;
         case 'leadership':
             leadership.push(item);
             await updateCategory('leadership', leadership);
@@ -204,6 +225,10 @@ async function moveToCategory(index, category) {
         case 'time':
             time.push(item);
             await updateCategory('time', time);
+            break;
+        case 'interesting':
+            interesting.push(item);
+            await updateCategory('interesting', interesting);
             break;
         default:
             console.error('Unknown category:', category);
@@ -232,6 +257,54 @@ async function updateCategory(category, data) {
         }
     } catch (error) {
         console.error(`Error updating ${category} data:`, error);
+    }
+}
+
+async function deleteFromCategory(index, category) {
+    switch (category) {
+        case 'accumulation':
+            accumulation.splice(index, 1);
+            await updateCategory('accumulation', accumulation);
+            renderCategoryTable('accumulationTable', accumulation, 'accumulation');
+            break;
+        case 'general':
+            general.splice(index, 1);
+            await updateCategory('general', general);
+            renderCategoryTable('generalTable', general, 'general');
+            break;
+        case 'leadership':
+            leadership.splice(index, 1);
+            await updateCategory('leadership', leadership);
+            renderCategoryTable('leadershipTable', leadership, 'leadership');
+            break;
+        case 'learning':
+            learning.splice(index, 1);
+            await updateCategory('learning', learning);
+            renderCategoryTable('learningTable', learning, 'learning');
+            break;
+        case 'processes':
+            processes.splice(index, 1);
+            await updateCategory('processes', processes);
+            renderCategoryTable('processesTable', processes, 'processes');
+            break;
+        case 'spreading':
+            spreading.splice(index, 1);
+            await updateCategory('spreading', spreading);
+            renderCategoryTable('spreadingTable', spreading, 'spreading');
+            break;
+        case 'time':
+            time.splice(index, 1);
+            await updateCategory('time', time);
+            renderCategoryTable('timeTable', time, 'time');
+            break;
+        case 'interesting':
+            interesting.splice(index, 1);
+            await updateCategory('interesting', interesting);
+            renderCategoryTable('interestingTable', interesting, 'interesting');
+            break;
+        default:
+            console.error('Unknown category:', category);
+            return;
     }
 }
 
@@ -264,6 +337,12 @@ function renderCategoryTable(tableId, data, category) {
         editButton.innerText = 'Edit Notes';
         editButton.onclick = () => editNotesInCategory(index, category);
         actionCell.appendChild(editButton);
+
+        // Delete Button
+        const deleteButton = document.createElement('button');
+        deleteButton.innerText = '✘'; // Represents delete
+        deleteButton.onclick = () => deleteFromCategory(index, category);
+        actionCell.appendChild(deleteButton);
 
         // You can add other buttons here if needed
     });
@@ -381,7 +460,6 @@ async function fetchCategoryData(category) {
         return [];
     }
 }
-
 
 async function editNotesInCategory(index, category) {
     const data = await fetchCategoryData(category); // Fetch the data for the given category

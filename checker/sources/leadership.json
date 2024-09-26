@@ -15,12 +15,6 @@
     "title": "Self-stabilising Priority-Based Multi-Leader Election and Network Partitioning",
     "year": 2022,
     "url": "https://doi.org/10.1109/ACSOS55765.2022.00026",
-    "notes": "multi leader election"
-  },
-  {
-    "title": "Self-stabilising Priority-Based Multi-Leader Election and Network Partitioning",
-    "year": 2022,
-    "url": "https://doi.org/10.1109/ACSOS55765.2022.00026",
-    "notes": "self-stab leader election, bounded election, recursive leader election, block S"
+    "notes": "self-stab leader election, bounded election, recursive leader election, block S, multi leader election"
   }
 ]

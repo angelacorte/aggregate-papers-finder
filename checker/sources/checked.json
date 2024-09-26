@@ -42,12 +42,6 @@
     "url": "https://doi.org/10.1007/11779568_87"
   },
   {
-    "title": "Design Patterns for Self-organising Systems",
-    "year": 2007,
-    "url": "https://doi.org/10.1007/978-3-540-75254-7_13",
-    "notes": "aggregation patter, diffusion pattern, evaporation"
-  },
-  {
     "title": "Using Ant's Brood Sorting to Increase Fault Tolerance in Linda's Tuple Distribution Mechanism",
     "year": 2007,
     "url": "https://doi.org/10.1007/978-3-540-75119-9_18",
@@ -186,12 +180,6 @@
     "notes": "nuclear division, nuclear movement, molecule diffusion, molecule interaction"
   },
   {
-    "title": "Self-Organising Semantic Resource Discovery for Pervasive Systems",
-    "year": 2012,
-    "url": "https://doi.org/10.1109/SASOW.2012.39",
-    "notes": "match algorithm, spreading, aggregation, gradient, chemiotaxis, route match information"
-  },
-  {
     "title": "A manifold operator representation for adaptive design",
     "year": 2012,
     "url": "https://doi.org/10.1145/2330163.2330239",
@@ -214,12 +202,6 @@
     "year": 2013,
     "url": "https://doi.org/10.1057/JOS.2012.27",
     "notes": "crowd steering case study in alchemist"
-  },
-  {
-    "title": "Description and composition of bio-inspired design patterns: a complete overview",
-    "year": 2013,
-    "url": "https://doi.org/10.1007/S11047-012-9324-Y",
-    "notes": "many patterns: spreading, aggregation, evaporation, repulsion, gradient, digital pheromone, gossip, ant foraging, chemotaxis, morphogenesis, quorum sensing, flocking"
   },
   {
     "title": "Engineering Pervasive Multiagent Systems in SAPERE",
@@ -276,18 +258,6 @@
     "notes": "line formation with different thickness, brownian motion, coping with random motion and noise"
   },
   {
-    "title": "Building Blocks for Aggregate Programming of Self-Organising Applications",
-    "year": 2014,
-    "notes": "distance to, block G, max-likehood, broadcast, path-forecast, block C, summarize, average, integral, region max, find-parent, timer, limited memory, block S, distance avoiding obstacles, broadcast region, group size, recent event, crowd tracking, recently true, rt-sub, dangerous density, crowd warning",
-    "url": "https://doi.org/10.1109/SASOW.2014.6"
-  },
-  {
-    "title": "Aggregate Programming for the Internet of Things",
-    "year": 2015,
-    "url": "https://doi.org/10.1109/MC.2015.261",
-    "notes": "protelis G, C, distance to, broadcast, summarize, limited memory, dangerous density, crowd tracking, crowd warning, "
-  },
-  {
     "title": "Developing pervasive multi-agent systems with nature-inspired coordination",
     "year": 2015,
     "url": "https://doi.org/10.1016/J.PMCJ.2014.12.002",
@@ -300,46 +270,16 @@
     "notes": "gillespie stochastic simulation algorithm, crowd steering in london"
   },
   {
-    "title": "Multi-agent Systems Meet Aggregate Programming: Towards a Notion of Aggregate Plan",
-    "year": 2015,
-    "url": "https://doi.org/10.1007/978-3-319-25524-8_4",
-    "notes": "G, C, S, distance to, broadcast, share, channel, summarize, mean path obstacle, deploy, virtual machine, rescuers case study"
-  },
-  {
-    "title": "Protelis: practical aggregate programming",
-    "year": 2015,
-    "url": "https://doi.org/10.1145/2695664.2695913",
-    "notes": "channel, square, count, maxh, distance to (+ obstacle), rendez vous at mass event, descend"
-  },
-  {
     "title": "Computational Fields Meet Augmented Reality: Perspectives and Challenges",
     "year": 2015,
     "url": "https://doi.org/10.1109/SASOW.2015.18",
     "notes": "local density, summarize density, entities in range"
   },
   {
-    "title": "Efficient Engineering of Complex Self-Organising Systems by Self-Stabilising Fields",
-    "year": 2015,
-    "url": "https://doi.org/10.1109/SASO.2015.16",
-    "notes": "distance avoiding obstacles, G, distance to, pi, C, find parent, summarize, T, [G vs crf grad vs flex grad], [c vs multipath summation/combination], [t vs exponential filter], add range, opinion feedback, evacuation alert"
-  },
-  {
-    "title": "Towards Agent Aggregates: Perspectives and Challenges",
-    "year": 2015,
-    "url": "https://doi.org/10.1007/978-3-319-26184-3_2",
-    "notes": "soliti + challenges"
-  },
-  {
     "title": "Superdiffusive Dispersion and Mixing of Swarms",
     "year": 2015,
     "url": "https://doi.org/10.1145/2700322",
     "notes": "reactive fast dispersion, reactive levy walk, many dispersions"
-  },
-  {
-    "title": "Simulating Large-scale Aggregate MASs with Alchemist and Scala",
-    "year": 2016,
-    "url": "https://ieeexplore.ieee.org/document/7733449",
-    "notes": "G & compnay, C & company, T, S, distance competition, break using ids, restriction in space, smart vehicle counting, crowd tracking"
   },
   {
     "title": "On execution platforms for large-scale aggregate computing",
@@ -358,12 +298,6 @@
     "year": 2016,
     "url": "https://doi.org/10.1109/FAS-W.2016.50",
     "notes": "average, parametric gradient, combined restriction, updatable functions/metric"
-  },
-  {
-    "title": "Aggregate Programming: From Foundations to Applications",
-    "year": 2016,
-    "url": "https://doi.org/10.1007/978-3-319-34096-8_8",
-    "notes": "distance avoiding obstacles, G, T, C, broadcast, distance to, summarize, limited memory, add range, opinion feedback, dangerous density, crowd tracking, crowd warning"
   },
   {
     "title": "Trading accuracy for speed in approximate consensus",
@@ -396,24 +330,6 @@
     "notes": "K-MRIB algorithm, broadcasting a common content into a wireless mesh network maximizing user satisfaction"
   },
   {
-    "title": "Error in Self-Stabilizing Spanning-Tree Estimation of Collective State",
-    "year": 2017,
-    "url": "https://doi.org/10.1109/FAS-W.2017.112",
-    "notes": "effects of distance estimator error"
-  },
-  {
-    "title": "Engineering Resilient Collective Adaptive Systems by Self-Stabilisation",
-    "year": 2018,
-    "url": "https://doi.org/10.1145/3177774",
-    "notes": "G, C, T + alternatives"
-  },
-  {
-    "title": "Towards attack-resistant Aggregate Computing using trust mechanisms",
-    "year": 2018,
-    "url": "https://doi.org/10.1016/J.SCICO.2018.07.006",
-    "notes": "trust implementation in scafi"
-  },
-  {
     "title": "Space-Time Universality of Field Calculus",
     "year": 2018,
     "url": "https://doi.org/10.1007/978-3-319-92408-3_1",
@@ -436,18 +352,6 @@
     "year": 2019,
     "url": "https://doi.org/10.1007/978-3-030-22397-7_4",
     "notes": "intro to share, vornoi example"
-  },
-  {
-    "title": "Self-organising Coordination Regions:A A Pattern for Edge Computing",
-    "year": 2019,
-    "url": "https://doi.org/10.1007/978-3-030-22397-7_11",
-    "notes": "SCR"
-  },
-  {
-    "title": "On Context-Orientation in Aggregate Programming",
-    "year": 2019,
-    "url": "https://doi.org/10.1109/FAS-W.2019.00035",
-    "notes": "context awareness, G, C, T, S"
   },
   {
     "title": "Engineering Resilient Collaborative Edge-Enabled IoT",
@@ -478,12 +382,6 @@
     "year": 2020,
     "url": "https://doi.org/10.1109/MTS.2020.3012324",
     "notes": "application domains and challenges"
-  },
-  {
-    "title": "Partitioned integration and coordination via the self-organising coordination regions pattern",
-    "year": 2021,
-    "url": "https://doi.org/10.1016/J.FUTURE.2020.07.032",
-    "notes": "SCR complete(?)"
   },
   {
     "title": "Aggregate centrality measures for IoT-based coordination",
@@ -537,19 +435,13 @@
     "title": "Space-Fluid Adaptive Sampling:A A Field-Based, Self-organising Approach",
     "year": 2022,
     "url": "https://doi.org/10.1007/978-3-031-08143-9_7",
-    "notes": ""
+    "notes": "space fluid model"
   },
   {
     "title": "On the Dynamic Evolution of Distributed Computational Aggregates",
     "year": 2022,
     "url": "https://doi.org/10.1109/ACSOSC56246.2022.00024",
     "notes": "wave-like propagation (fcpp)"
-  },
-  {
-    "title": "Self-Organisation Programming:A A Functional Reactive Macro Approach",
-    "year": 2023,
-    "url": "https://doi.org/10.1109/ACSOS58161.2023.00026",
-    "notes": "frasp"
   },
   {
     "title": "FCPP+Miosix:A Scaling Aggregate Programming to Embedded Systems",
@@ -567,6 +459,6 @@
     "title": "Actor-Based Designs for Distributed Self-organisation Programming",
     "year": 2024,
     "url": "https://doi.org/10.1007/978-3-031-51060-1_2",
-    "notes": ""
+    "notes": "actor based gradient"
   }
 ]

@@ -35,7 +35,7 @@ app.post('/updateToCheck', (req, res) => {
 // Generic endpoint for category updates
 app.post('/updateCategory/:category', (req, res) => {
     const category = req.params.category;
-    const validCategories = ['accumulation', 'leadership', 'learning', 'processes', 'spreading', 'time'];
+    const validCategories = ['accumulation', 'general', 'leadership', 'learning', 'processes', 'spreading', 'time', 'interesting'];
 
     if (!validCategories.includes(category)) {
         return res.status(400).send('Invalid category');

@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Partitioned integration and coordination via the self-organising coordination regions pattern",
+    "year": 2021,
+    "url": "https://doi.org/10.1016/J.FUTURE.2020.07.032",
+    "notes": "SCR complete(?)"
+  },
+  {
+    "title": "Building Blocks for Aggregate Programming of Self-Organising Applications",
+    "year": 2014,
+    "notes": "distance to, block G, max-likehood, broadcast, path-forecast, block C, summarize, average, integral, region max, find-parent, timer, limited memory, block S, distance avoiding obstacles, broadcast region, group size, recent event, crowd tracking, recently true, rt-sub, dangerous density, crowd warning",
+    "url": "https://doi.org/10.1109/SASOW.2014.6"
+  },
+  {
+    "title": "Simulating Large-scale Aggregate MASs with Alchemist and Scala",
+    "year": 2016,
+    "url": "https://ieeexplore.ieee.org/document/7733449",
+    "notes": "G & compnay, C & company, T, S, distance competition, break using ids, restriction in space, smart vehicle counting, crowd tracking"
+  },
+  {
+    "title": "Aggregate Programming: From Foundations to Applications",
+    "year": 2016,
+    "url": "https://doi.org/10.1007/978-3-319-34096-8_8",
+    "notes": "distance avoiding obstacles, G, T, C, broadcast, distance to, summarize, limited memory, add range, opinion feedback, dangerous density, crowd tracking, crowd warning"
+  },
+  {
+    "title": "Efficient Engineering of Complex Self-Organising Systems by Self-Stabilising Fields",
+    "year": 2015,
+    "url": "https://doi.org/10.1109/SASO.2015.16",
+    "notes": "distance avoiding obstacles, G, distance to, pi, C, find parent, summarize, T, [G vs crf grad vs flex grad], [c vs multipath summation/combination], [t vs exponential filter], add range, opinion feedback, evacuation alert"
+  },
+  {
+    "title": "Engineering Resilient Collective Adaptive Systems by Self-Stabilisation",
+    "year": 2018,
+    "url": "https://doi.org/10.1145/3177774",
+    "notes": "G, C, T + alternatives"
+  },
+  {
+    "title": "Multi-agent Systems Meet Aggregate Programming: Towards a Notion of Aggregate Plan",
+    "year": 2015,
+    "url": "https://doi.org/10.1007/978-3-319-25524-8_4",
+    "notes": "G, C, S, distance to, broadcast, share, channel, summarize, mean path obstacle, deploy, virtual machine, rescuers case study"
+  },
+  {
+    "title": "Self-organising Coordination Regions:A A Pattern for Edge Computing",
+    "year": 2019,
+    "url": "https://doi.org/10.1007/978-3-030-22397-7_11",
+    "notes": "SCR"
+  },
+  {
+    "title": "On Context-Orientation in Aggregate Programming",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/FAS-W.2019.00035",
+    "notes": "context awareness, G, C, T, S"
+  },
+  {
+    "title": "Towards Agent Aggregates: Perspectives and Challenges",
+    "year": 2015,
+    "url": "https://doi.org/10.1007/978-3-319-26184-3_2",
+    "notes": "soliti + challenges"
+  },
+  {
+    "title": "Description and composition of bio-inspired design patterns: a complete overview",
+    "year": 2013,
+    "url": "https://doi.org/10.1007/S11047-012-9324-Y",
+    "notes": "many patterns: spreading, aggregation, evaporation, repulsion, gradient, digital pheromone, gossip, ant foraging, chemotaxis, morphogenesis, quorum sensing, flocking"
+  }
+]

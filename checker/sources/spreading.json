@@ -54,12 +54,6 @@
     "notes": "gossip ever, bisector, gpi, broadcast, channel, channel with obstacles, contextual distance"
   },
   {
-    "title": "Combining Trust and Aggregate Computing",
-    "year": 2017,
-    "url": "https://doi.org/10.1007/978-3-319-74781-1_34",
-    "notes": "trust gradient algorithm"
-  },
-  {
     "title": "Distributed Real-Time Shortest-Paths Computations with the Field Calculus",
     "year": 2018,
     "url": "https://doi.org/10.1109/RTSS.2018.00013",
@@ -124,5 +118,29 @@
     "year": 2017,
     "url": "https://doi.org/10.1007/978-3-319-59746-1_4",
     "notes": "basic gradient approach, gradient-based implementation (speed bias, rising value, smoothness, CRF gradient, flex gradient), BIS gradient, gradient through information speec, case study crwod steering to busy resources"
+  },
+  {
+    "title": "Aggregate Programming for the Internet of Things",
+    "year": 2015,
+    "url": "https://doi.org/10.1109/MC.2015.261",
+    "notes": "protelis G, C, distance to, broadcast, summarize, limited memory, dangerous density, crowd tracking, crowd warning, "
+  },
+  {
+    "title": "Protelis: practical aggregate programming",
+    "year": 2015,
+    "url": "https://doi.org/10.1145/2695664.2695913",
+    "notes": "channel, square, count, maxh, distance to (+ obstacle), rendez vous at mass event, descend"
+  },
+  {
+    "title": "Error in Self-Stabilizing Spanning-Tree Estimation of Collective State",
+    "year": 2017,
+    "url": "https://doi.org/10.1109/FAS-W.2017.112",
+    "notes": "effects of distance estimator error"
+  },
+  {
+    "title": "Self-Organising Semantic Resource Discovery for Pervasive Systems",
+    "year": 2012,
+    "url": "https://doi.org/10.1109/SASOW.2012.39",
+    "notes": "match algorithm, spreading, aggregation, gradient, chemiotaxis, route match information"
   }
 ]
