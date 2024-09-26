@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Empirical Characterization of Discretization Error in Gradient-Based Algorithms",
+    "year": 2008,
+    "url": "https://doi.org/10.1109/SASO.2008.53",
+    "notes": "planar gradient + error"
+  },
+  {
+    "title": "Fast self-healing gradients",
+    "year": 2008,
+    "url": "https://doi.org/10.1145/1363686.1364163",
+    "notes": "CRF-GRADIENT"
+  },
+  {
+    "title": "Functional blueprints: an approach to modularity in grown systems",
+    "year": 2011,
+    "url": "https://doi.org/10.1007/S11721-011-0056-X",
+    "notes": "different types of distortion, bisection, dilatation, shortest path, flex gradient, simmetry break, polka dot, tissue growth, vascularization, shapes (letters)"
+  },
+  {
+    "title": "Infrastructure for Engineered Emergence on Sensor/Actuator Networks",
+    "year": 2006,
+    "notes": "proto gradient, local average, reduce neighbors, dilate, channel, choose leader, bound, coordinates, distance, homeostasis (time gradient?), plane wave oscillator",
+    "url": "https://doi.org/10.1109/MIS.2006.29"
+  },
+  {
+    "title": "Fast Self-stabilization for Gradients",
+    "year": 2009,
+    "url": "https://doi.org/10.1007/978-3-642-02085-8_2",
+    "notes": "proof of stabilization of CRF gradient"
+  },
+  {
+    "title": "Flexible self-healing gradients",
+    "year": 2009,
+    "url": "https://doi.org/10.1145/1529282.1529550",
+    "notes": "flex-gradient"
+  },
+  {
+    "title": "Improving Gossip Dynamics Through Overlapping Replicates",
+    "year": 2016,
+    "url": "https://doi.org/10.1007/978-3-319-39519-7_12",
+    "notes": "gossip time replication"
+  },
+  {
+    "title": "Gradient-Based Self-Organisation Patterns of Anticipative Adaptation",
+    "year": 2012,
+    "url": "https://doi.org/10.1109/SASO.2012.25",
+    "notes": "anticipative gradient"
+  },
+  {
+    "title": "Self-Adaptation to Device Distribution Changes",
+    "year": 2016,
+    "url": "https://doi.org/10.1109/SASO.2016.12",
+    "notes": "gossip ever, bisector, gpi, broadcast, channel, channel with obstacles, contextual distance"
+  },
+  {
+    "title": "Combining Trust and Aggregate Computing",
+    "year": 2017,
+    "url": "https://doi.org/10.1007/978-3-319-74781-1_34",
+    "notes": "trust gradient algorithm"
+  },
+  {
+    "title": "Distributed Real-Time Shortest-Paths Computations with the Field Calculus",
+    "year": 2018,
+    "url": "https://doi.org/10.1109/RTSS.2018.00013",
+    "notes": "gradient, enhanced gradient"
+  },
+  {
+    "title": "Robust Stability of Spreading Blocks in Aggregate Computing",
+    "year": 2018,
+    "url": "https://doi.org/10.1109/CDC.2018.8618735",
+    "notes": "spreading blocks"
+  },
+  {
+    "title": "Self-Organisation Programming: A Functional Reactive Macro Approach",
+    "year": 2023,
+    "url": "https://doi.org/10.1109/ACSOS58161.2023.00026",
+    "notes": "distance between, gradient, broadcast, channel in FRASP"
+  },
+  {
+    "title": "Toward Approximate Stochastic Model Checking of Computational Fields for Pervasive Computing Systems",
+    "year": 2012,
+    "url": "https://doi.org/10.1109/SASOW.2012.42",
+    "notes": "gradient in prism"
+  },
+  {
+    "title": "Self-Adaptation to Device Distribution in the Internet of Things",
+    "year": 2017,
+    "url": "https://doi.org/10.1145/3105758",
+    "notes": "gossip ever, distance to, bisector, GPI, context-sensitive distance"
+  },
+  {
+    "title": "Formal foundations of sensor network applications",
+    "year": 2015,
+    "url": "https://doi.org/10.1145/2826686.2826693",
+    "notes": "gossip min, bounded gossip min"
+  },
+  {
+    "title": "Compositional Blocks for Optimal Self-Healing Gradients",
+    "year": 2017,
+    "url": "https://doi.org/10.1109/SASO.2017.18",
+    "notes": "ALL(?) gradients: classic, flex, bis, svd, (detect), composite with metrics [gpsmetric, speedmetric], initial filtering, ULT"
+  },
+  {
+    "title": "Optimal single-path information propagation in gradient-based algorithms",
+    "year": 2018,
+    "url": "https://doi.org/10.1016/J.SCICO.2018.06.002",
+    "notes": "gradients: classic, crf, flex, bis, bis flex, G bis, G, G', broadcast, distance, elliptic channel, rectangular channel, channel communication, multipath"
+  },
+  {
+    "title": "Combining self-organisation, context-awareness and semantic reasoning: the case of resource discovery in opportunistic networks",
+    "year": 2013,
+    "url": "https://doi.org/10.1145/2480362.2480619",
+    "notes": "semantic matching, spreading, aggregation, decay, gradient, chemotaxis"
+  },
+  {
+    "title": "Description and composition of bio-inspired design patterns: the gradient case",
+    "year": 2011,
+    "url": "https://doi.org/10.1145/1998570.1998575",
+    "notes": "chemiotaxis, morphogenesis, quorum sensing, "
+  },
+  {
+    "title": "Optimally-Self-Healing Distributed Gradient Structures Through Bounded Information Speed",
+    "year": 2017,
+    "url": "https://doi.org/10.1007/978-3-319-59746-1_4",
+    "notes": "basic gradient approach, gradient-based implementation (speed bias, rising value, smoothness, CRF gradient, flex gradient), BIS gradient, gradient through information speec, case study crwod steering to busy resources"
+  }
+]

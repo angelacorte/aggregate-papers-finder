@@ -30,12 +30,6 @@
     "url": "https://doi.org/10.1007/11560319_12"
   },
   {
-    "title": "Infrastructure for Engineered Emergence on Sensor/Actuator Networks",
-    "year": 2006,
-    "notes": "proto gradient, local average, reduce neighbors, dilate, channel, choose leader, bound, coordinates, distance, homeostasis (time gradient?), plane wave oscillator",
-    "url": "https://doi.org/10.1109/MIS.2006.29"
-  },
-  {
     "title": "Morphogenesis as an amorphous computation",
     "year": 2006,
     "notes": "growth and regeneration, organizers > growing organizer, microtubule development mechanism, some patterns",
@@ -72,28 +66,10 @@
     "notes": "tuple distribution to not over cluster"
   },
   {
-    "title": "Design Patterns for Self-organising Systems",
-    "year": 2007,
-    "url": "https://doi.org/10.1007/978-3-540-75254-7_13",
-    "notes": "aggregation patter, diffusion pattern, evaporation"
-  },
-  {
     "title": "Collective Sort and Emergent Patterns of Tuple Distribution in Grid-Like Networks",
     "year": 2008,
     "url": "https://doi.org/10.1109/WETICE.2008.21",
     "notes": "collective sort in basic topologies network, for stronger information clustering, enhanced collective sort"
-  },
-  {
-    "title": "Fast self-healing gradients",
-    "year": 2008,
-    "url": "https://doi.org/10.1145/1363686.1364163",
-    "notes": "CRF-GRADIENT"
-  },
-  {
-    "title": "Empirical Characterization of Discretization Error in Gradient-Based Algorithms",
-    "year": 2008,
-    "url": "https://doi.org/10.1109/SASO.2008.53",
-    "notes": "planar gradient + error"
   },
   {
     "title": "Applying Self-Organizing Coordination to Emergent Tuple Organization in Distributed Networks",
@@ -126,28 +102,10 @@
     "notes": "tucson tuple clustering, chemical-like coordination"
   },
   {
-    "title": "A mechanism for flexible dynamic trait replacement",
-    "year": 2009,
-    "url": "https://doi.org/10.1145/1557898.1557907",
-    "notes": "not sure but could be useful for runtime manipulation in collective OSs?"
-  },
-  {
-    "title": "Fast Self-stabilization for Gradients",
-    "year": 2009,
-    "url": "https://doi.org/10.1007/978-3-642-02085-8_2",
-    "notes": "proof of stabilization of CRF gradient"
-  },
-  {
     "title": "Behavior modes for randomized robotic coverage",
     "year": 2009,
     "url": "https://doi.org/10.4108/ICST.ROBOCOMM2009.5863",
     "notes": "randomize coalescence algorithm + convergence"
-  },
-  {
-    "title": "Flexible self-healing gradients",
-    "year": 2009,
-    "url": "https://doi.org/10.1145/1529282.1529550",
-    "notes": "flex-gradient"
   },
   {
     "title": "AmorphousComputing",
@@ -186,34 +144,16 @@
     "notes": "unifying theory of computation over continuous space-time in proto"
   },
   {
-    "title": "Dynamically Defined Processes for Spatial Computers",
-    "year": 2010,
-    "url": "https://doi.org/10.1109/SASOW.2010.74",
-    "notes": "processes in proto, tracking and reporting a flock"
-  },
-  {
     "title": "Self-organising Pervasive Ecosystems: A Crowd Evacuation Example",
     "year": 2011,
     "url": "https://doi.org/10.1007/978-3-642-24124-6_12",
     "notes": "SAPERE, fire, exit and crowd evacuation"
   },
   {
-    "title": "Description and composition of bio-inspired design patterns: the gradient case",
-    "year": 2011,
-    "url": "https://doi.org/10.1145/1998570.1998575",
-    "notes": "chemiotaxis, morphogenesis, quorum sensing, "
-  },
-  {
     "title": "Core operational semantics of Proto",
     "year": 2011,
     "url": "https://doi.org/10.1145/1982185.1982472",
     "notes": "proto semantics"
-  },
-  {
-    "title": "Functional blueprints: an approach to modularity in grown systems",
-    "year": 2011,
-    "url": "https://doi.org/10.1007/S11721-011-0056-X",
-    "notes": "different types of distortion, bisection, dilatation, shortest path, flex gradient, simmetry break, polka dot, tissue growth, vascularization, shapes (letters)"
   },
   {
     "title": "An agent framework for agent societies",
@@ -246,22 +186,10 @@
     "notes": "nuclear division, nuclear movement, molecule diffusion, molecule interaction"
   },
   {
-    "title": "Gradient-Based Self-Organisation Patterns of Anticipative Adaptation",
-    "year": 2012,
-    "url": "https://doi.org/10.1109/SASO.2012.25",
-    "notes": "anticipative gradient"
-  },
-  {
     "title": "Self-Organising Semantic Resource Discovery for Pervasive Systems",
     "year": 2012,
     "url": "https://doi.org/10.1109/SASOW.2012.39",
     "notes": "match algorithm, spreading, aggregation, gradient, chemiotaxis, route match information"
-  },
-  {
-    "title": "Toward Approximate Stochastic Model Checking of Computational Fields for Pervasive Computing Systems",
-    "year": 2012,
-    "url": "https://doi.org/10.1109/SASOW.2012.42",
-    "notes": "gradient in prism"
   },
   {
     "title": "A manifold operator representation for adaptive design",
@@ -288,12 +216,6 @@
     "notes": "crowd steering case study in alchemist"
   },
   {
-    "title": "Combining self-organisation, context-awareness and semantic reasoning: the case of resource discovery in opportunistic networks",
-    "year": 2013,
-    "url": "https://doi.org/10.1145/2480362.2480619",
-    "notes": "semantic matching, spreading, aggregation, decay, gradient, chemotaxis"
-  },
-  {
     "title": "Description and composition of bio-inspired design patterns: a complete overview",
     "year": 2013,
     "url": "https://doi.org/10.1007/S11047-012-9324-Y",
@@ -310,12 +232,6 @@
     "year": 2013,
     "url": "https://doi.org/10.1007/978-3-642-45364-9_11",
     "notes": ""
-  },
-  {
-    "title": "On the Evaluation of Space-Time Functions",
-    "year": 2013,
-    "url": "https://doi.org/10.1093/COMJNL/BXS099",
-    "notes": "function call in proto"
   },
   {
     "title": "Functional synthesis of genetic regulatory networks",
@@ -360,7 +276,7 @@
     "notes": "line formation with different thickness, brownian motion, coping with random motion and noise"
   },
   {
-    "title": "Building Blocks for Aggregate Programming of Self-Organising Applications (2014)",
+    "title": "Building Blocks for Aggregate Programming of Self-Organising Applications",
     "year": 2014,
     "notes": "distance to, block G, max-likehood, broadcast, path-forecast, block C, summarize, average, integral, region max, find-parent, timer, limited memory, block S, distance avoiding obstacles, broadcast region, group size, recent event, crowd tracking, recently true, rt-sub, dangerous density, crowd warning",
     "url": "https://doi.org/10.1109/SASOW.2014.6"
@@ -408,12 +324,6 @@
     "notes": "distance avoiding obstacles, G, distance to, pi, C, find parent, summarize, T, [G vs crf grad vs flex grad], [c vs multipath summation/combination], [t vs exponential filter], add range, opinion feedback, evacuation alert"
   },
   {
-    "title": "Formal foundations of sensor network applications",
-    "year": 2015,
-    "url": "https://doi.org/10.1145/2826686.2826693",
-    "notes": "gossip min, bounded gossip min"
-  },
-  {
     "title": "Towards Agent Aggregates: Perspectives and Challenges",
     "year": 2015,
     "url": "https://doi.org/10.1007/978-3-319-26184-3_2",
@@ -426,12 +336,6 @@
     "notes": "reactive fast dispersion, reactive levy walk, many dispersions"
   },
   {
-    "title": "Improving Gossip Dynamics Through Overlapping Replicates",
-    "year": 2016,
-    "url": "https://doi.org/10.1007/978-3-319-39519-7_12",
-    "notes": "gossip time replication"
-  },
-  {
     "title": "Simulating Large-scale Aggregate MASs with Alchemist and Scala",
     "year": 2016,
     "url": "https://ieeexplore.ieee.org/document/7733449",
@@ -442,12 +346,6 @@
     "year": 2016,
     "url": "https://doi.org/10.1145/2968219.2979129",
     "notes": "dangerous density, random region"
-  },
-  {
-    "title": "Self-Adaptation to Device Distribution Changes",
-    "year": 2016,
-    "url": "https://doi.org/10.1109/SASO.2016.12",
-    "notes": "gossip ever, bisector, gpi, broadcast, channel, channel with obstacles, contextual distance"
   },
   {
     "title": "Combining Self-Organisation and Autonomic Computing in CASs with Aggregate-MAPE",
@@ -480,12 +378,6 @@
     "notes": "task assignment algorithm"
   },
   {
-    "title": "Self-Adaptation to Device Distribution in the Internet of Things",
-    "year": 2017,
-    "url": "https://doi.org/10.1145/3105758",
-    "notes": "gossip ever, distance to, bisector, GPI, context-sensitive distance"
-  },
-  {
     "title": "Self-Stabilising Target Counting in Wireless Sensor Networks Using Euler Integration",
     "year": 2017,
     "url": "https://doi.org/10.1109/SASO.2017.10",
@@ -496,24 +388,6 @@
     "year": 2017,
     "url": "https://doi.org/10.1109/FAS-W.2017.116",
     "notes": "protelis-lang, multi-istance, meet the celebrity scenario, resource allocation scenario"
-  },
-  {
-    "title": "Optimally-Self-Healing Distributed Gradient Structures Through Bounded Information Speed",
-    "year": 2017,
-    "url": "https://doi.org/10.1007/978-3-319-59746-1_4",
-    "notes": "basic gradient approach, gradient-based implementation (speed bias, rising value, smoothness, CRF gradient, flex gradient), BIS gradient, gradient through information speec, case study crwod steering to busy resources"
-  },
-  {
-    "title": "Compositional Blocks for Optimal Self-Healing Gradients",
-    "year": 2017,
-    "url": "https://doi.org/10.1109/SASO.2017.18",
-    "notes": "ALL(?) gradients: classic, flex, bis, svd, (detect), composite with metrics [gpsmetric, speedmetric], initial filtering, ULT"
-  },
-  {
-    "title": "Combining Trust and Aggregate Computing",
-    "year": 2017,
-    "url": "https://doi.org/10.1007/978-3-319-74781-1_34",
-    "notes": "trust gradient algorithm"
   },
   {
     "title": "Maximizing the overall end-user satisfaction of data broadcast in wireless mesh networks",
@@ -534,40 +408,16 @@
     "notes": "G, C, T + alternatives"
   },
   {
-    "title": "Optimal single-path information propagation in gradient-based algorithms",
-    "year": 2018,
-    "url": "https://doi.org/10.1016/J.SCICO.2018.06.002",
-    "notes": "gradients: classic, crf, flex, bis, bis flex, G bis, G, G', broadcast, distance, elliptic channel, rectangular channel, channel communication, multipath"
-  },
-  {
     "title": "Towards attack-resistant Aggregate Computing using trust mechanisms",
     "year": 2018,
     "url": "https://doi.org/10.1016/J.SCICO.2018.07.006",
     "notes": "trust implementation in scafi"
   },
   {
-    "title": "An Aggregate Computing Approach to Self-Stabilizing Leader Election",
-    "year": 2018,
-    "url": "https://doi.org/10.1109/FAS-W.2018.00034",
-    "notes": "leader election"
-  },
-  {
     "title": "Space-Time Universality of Field Calculus",
     "year": 2018,
     "url": "https://doi.org/10.1007/978-3-319-92408-3_1",
     "notes": "gather, next complete event, f delayed "
-  },
-  {
-    "title": "Distributed Real-Time Shortest-Paths Computations with the Field Calculus",
-    "year": 2018,
-    "url": "https://doi.org/10.1109/RTSS.2018.00013",
-    "notes": "gradient, enhanced gradient"
-  },
-  {
-    "title": "Robust Stability of Spreading Blocks in Aggregate Computing",
-    "year": 2018,
-    "url": "https://doi.org/10.1109/CDC.2018.8618735",
-    "notes": "spreading blocks"
   },
   {
     "title": "Modelling and simulation of Opportunistic IoT Services with Aggregate Computing",
@@ -592,12 +442,6 @@
     "year": 2019,
     "url": "https://doi.org/10.1007/978-3-030-22397-7_11",
     "notes": "SCR"
-  },
-  {
-    "title": "Aggregate Processes in Field Calculus",
-    "year": 2019,
-    "url": "https://doi.org/10.1007/978-3-030-22397-7_12",
-    "notes": "aggregate processes"
   },
   {
     "title": "On Context-Orientation in Aggregate Programming",
@@ -636,30 +480,6 @@
     "notes": "application domains and challenges"
   },
   {
-    "title": "Time-Fluid Field-Based Coordination",
-    "year": 2020,
-    "url": "https://doi.org/10.1007/978-3-030-50029-0_13",
-    "notes": "time fluid P and G"
-  },
-  {
-    "title": "Collective Adaptive Systems as Coordination Media:A The Case of Tuples in Space-Time",
-    "year": 2020,
-    "url": "https://doi.org/10.1109/ACSOS-C51401.2020.00045",
-    "notes": "coordination and processes"
-  },
-  {
-    "title": "Optimal resilient distributed data collection in mobile edge environments",
-    "year": 2021,
-    "url": "https://doi.org/10.1016/J.COMPELECENG.2021.107580",
-    "notes": "Clist and Cblist"
-  },
-  {
-    "title": "Engineering collective intelligence at the edge with aggregate processes",
-    "year": 2021,
-    "url": "https://doi.org/10.1016/J.ENGAPPAI.2020.104081",
-    "notes": "aggregate processes"
-  },
-  {
     "title": "Partitioned integration and coordination via the self-organising coordination regions pattern",
     "year": 2021,
     "url": "https://doi.org/10.1016/J.FUTURE.2020.07.032",
@@ -672,28 +492,10 @@
     "notes": "centrality measures into field computation"
   },
   {
-    "title": "Towards Pulverised Architectures for Collective Adaptive Systems through Multi-Tier Programming",
-    "year": 2021,
-    "url": "https://doi.org/10.1109/ACSOS-C52956.2021.00033",
-    "notes": "pulverization integration into AC"
-  },
-  {
-    "title": "ScaFi-Web:A A Web-Based Application for Field-Based Coordination Programming",
-    "year": 2021,
-    "url": "https://doi.org/10.1007/978-3-030-78142-2_18",
-    "notes": "web scafi"
-  },
-  {
     "title": "Adaptive distributed monitors of spatial properties for cyber-physical systems",
     "year": 2021,
     "url": "https://doi.org/10.1016/J.JSS.2021.110908",
     "notes": " Spatial Logic of Closure Spaces"
-  },
-  {
-    "title": "Tuple-Based Coordination in Large-Scale Situated Systems",
-    "year": 2021,
-    "url": "https://doi.org/10.1007/978-3-030-78142-2_10",
-    "notes": "Implementing Spatiotemporal Tuples via Aggregate Processes"
   },
   {
     "title": "Fostering resilient execution of multi-agent plans through self-organisation",
@@ -708,22 +510,10 @@
     "notes": "monotonic filtering with ac"
   },
   {
-    "title": "Self-stabilising Priority-Based Multi-Leader Election and Network Partitioning",
-    "year": 2022,
-    "url": "https://doi.org/10.1109/ACSOS55765.2022.00026",
-    "notes": "multi leader election"
-  },
-  {
     "title": "MacroSwarm: A Field-Based Compositional Framework for Swarm Programming",
     "year": 2023,
     "url": "https://doi.org/10.1007/978-3-031-35361-1_2",
     "notes": "macro swarm"
-  },
-  {
-    "title": "Self-Organisation Programming: A Functional Reactive Macro Approach",
-    "year": 2023,
-    "url": "https://doi.org/10.1109/ACSOS58161.2023.00026",
-    "notes": "distance between, gradient, broadcast, channel in FRASP"
   },
   {
     "title": "Programming Distributed Collective Processes in the eXchange Calculus",
@@ -738,22 +528,10 @@
     "notes": "xc"
   },
   {
-    "title": "ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design",
-    "year": 2024,
-    "url": "https://doi.org/10.1007/978-3-031-62697-5_14",
-    "notes": "scafi blocks web"
-  },
-  {
     "title": "A Collective Adaptive Approach to Decentralised k-Coverage in Multi-robot Systems",
     "year": 2022,
     "url": "https://doi.org/10.1145/3547145",
     "notes": "Online Multi-Object k-Coverage, field esploration"
-  },
-  {
-    "title": "Self-stabilising Priority-Based Multi-Leader Election and Network Partitioning",
-    "year": 2022,
-    "url": "https://doi.org/10.1109/ACSOS55765.2022.00026",
-    "notes": "self-stab leader election, bounded election, recursive leader election, block S"
   },
   {
     "title": "Space-Fluid Adaptive Sampling:A A Field-Based, Self-organising Approach",
@@ -762,58 +540,16 @@
     "notes": ""
   },
   {
-    "title": "Distributed runtime verification by past-CTL and the field calculus",
-    "year": 2022,
-    "url": "https://doi.org/10.1016/J.JSS.2022.111251",
-    "notes": "past temporal operations, in smart home, crowd safety, drones recognition"
-  },
-  {
-    "title": "Towards Reinforcement Learning-based Aggregate Computing",
-    "year": 2022,
-    "url": "https://doi.org/10.1007/978-3-031-08143-9_5",
-    "notes": "value based RL algorithm, RL gradient"
-  },
-  {
     "title": "On the Dynamic Evolution of Distributed Computational Aggregates",
     "year": 2022,
     "url": "https://doi.org/10.1109/ACSOSC56246.2022.00024",
     "notes": "wave-like propagation (fcpp)"
   },
   {
-    "title": "Near-optimal knowledge-free resilient leader election",
-    "year": 2022,
-    "url": "https://doi.org/10.1145/3605159",
-    "notes": "stability and resilience for leader election"
-  },
-  {
-    "title": "Aggregate processes as distributed adaptive services for the Industrial Internet of Things",
-    "year": 2022,
-    "url": "https://doi.org/10.1016/J.PMCJ.2022.101658",
-    "notes": "aggregate processes"
-  },
-  {
     "title": "Self-Organisation Programming:A A Functional Reactive Macro Approach",
     "year": 2023,
     "url": "https://doi.org/10.1109/ACSOS58161.2023.00026",
     "notes": "frasp"
-  },
-  {
-    "title": "Field-informed Reinforcement Learning of Collective Tasks with Graph Neural Networks",
-    "year": 2023,
-    "url": "https://doi.org/10.1109/ACSOS58161.2023.00021",
-    "notes": "monitoring phenomenon FIRL"
-  },
-  {
-    "title": "ScaRLib:A A Framework for Cooperative Many Agent Deep Reinforcement Learning in Scala",
-    "year": 2023,
-    "url": "https://doi.org/10.1007/978-3-031-35361-1_3",
-    "notes": "many agents RL"
-  },
-  {
-    "title": "Programming Distributed Collective Processes for Dynamic Ensembles and Collective Tasks",
-    "year": 2023,
-    "url": "https://doi.org/10.1007/978-3-031-35361-1_4",
-    "notes": "collective processes in XC"
   },
   {
     "title": "FCPP+Miosix:A Scaling Aggregate Programming to Embedded Systems",
@@ -826,12 +562,6 @@
     "year": 2023,
     "url": "https://doi.org/10.1109/ACSOS-C58168.2023.00054",
     "notes": "parallelize FCPP with MPI"
-  },
-  {
-    "title": "Field-Based Coordination for Federated Learning",
-    "year": 2024,
-    "url": "https://doi.org/10.1007/978-3-031-62697-5_4",
-    "notes": ""
   },
   {
     "title": "Actor-Based Designs for Distributed Self-organisation Programming",

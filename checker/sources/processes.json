@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Dynamically Defined Processes for Spatial Computers",
+    "year": 2010,
+    "url": "https://doi.org/10.1109/SASOW.2010.74",
+    "notes": "processes in proto, tracking and reporting a flock"
+  },
+  {
+    "title": "A mechanism for flexible dynamic trait replacement",
+    "year": 2009,
+    "url": "https://doi.org/10.1145/1557898.1557907",
+    "notes": "not sure but could be useful for runtime manipulation in collective OSs?"
+  },
+  {
+    "title": "On the Evaluation of Space-Time Functions",
+    "year": 2013,
+    "url": "https://doi.org/10.1093/COMJNL/BXS099",
+    "notes": "function call in proto"
+  },
+  {
+    "title": "Programming Distributed Collective Processes for Dynamic Ensembles and Collective Tasks",
+    "year": 2023,
+    "url": "https://doi.org/10.1007/978-3-031-35361-1_4",
+    "notes": "collective processes in XC"
+  },
+  {
+    "title": "Aggregate Processes in Field Calculus",
+    "year": 2019,
+    "url": "https://doi.org/10.1007/978-3-030-22397-7_12",
+    "notes": "aggregate processes"
+  },
+  {
+    "title": "Engineering collective intelligence at the edge with aggregate processes",
+    "year": 2021,
+    "url": "https://doi.org/10.1016/J.ENGAPPAI.2020.104081",
+    "notes": "aggregate processes"
+  },
+  {
+    "title": "Aggregate processes as distributed adaptive services for the Industrial Internet of Things",
+    "year": 2022,
+    "url": "https://doi.org/10.1016/J.PMCJ.2022.101658",
+    "notes": "aggregate processes"
+  },
+  {
+    "title": "Tuple-Based Coordination in Large-Scale Situated Systems",
+    "year": 2021,
+    "url": "https://doi.org/10.1007/978-3-030-78142-2_10",
+    "notes": "Implementing Spatiotemporal Tuples via Aggregate Processes"
+  },
+  {
+    "title": "Collective Adaptive Systems as Coordination Media:A The Case of Tuples in Space-Time",
+    "year": 2020,
+    "url": "https://doi.org/10.1109/ACSOS-C51401.2020.00045",
+    "notes": "coordination and processes"
+  }
+]
