@@ -1,11 +1,5 @@
 [
   {
-    "title": "Computing Amorphous Program Slices Using Dependence Graphs",
-    "year": 1999,
-    "notes": "",
-    "url": "https://doi.org/10.1145/298151.298432"
-  },
-  {
     "title": "Amorphous Computing",
     "year": 2000,
     "notes": "program in the growing-point language -- pseudo-algorithm in lisp",
@@ -442,5 +436,11 @@
     "year": 2024,
     "url": "https://doi.org/10.1007/978-3-031-51060-1_2",
     "notes": "actor based gradient"
+  },
+  {
+    "title": "Computing Amorphous Program Slices Using Dependence Graphs",
+    "year": 1999,
+    "notes": "",
+    "url": "https://doi.org/10.1145/298151.298432"
   }
 ]
