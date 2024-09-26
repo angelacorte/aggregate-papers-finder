@@ -111,7 +111,10 @@ function createActionButtons(actionCell, index, category) {
     // Add additional buttons for 'Checked' table only
     if (category === 'checked') {
         categories.forEach(cat => {
-            const moveButton = createButton(`Move to ${cat.charAt(0).toUpperCase() + cat.slice(1)}`, () => moveToCategory(index, cat));
+            const moveButton = createButton(
+                cat === 'interesting' ? 'Interesting but not stdlib' : `Move to ${cat.charAt(0).toUpperCase() + cat.slice(1)}`,
+                () => moveToCategory(index, cat)
+            );
             actionCell.appendChild(moveButton);
         });
 
