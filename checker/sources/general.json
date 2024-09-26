@@ -64,5 +64,17 @@
     "year": 2013,
     "url": "https://doi.org/10.1007/S11047-012-9324-Y",
     "notes": "many patterns: spreading, aggregation, evaporation, repulsion, gradient, digital pheromone, gossip, ant foraging, chemotaxis, morphogenesis, quorum sensing, flocking"
+  },
+  {
+    "title": "MacroSwarm: A Field-Based Compositional Framework for Swarm Programming",
+    "year": 2023,
+    "url": "https://doi.org/10.1007/978-3-031-35361-1_2",
+    "notes": "macro swarm"
+  },
+  {
+    "title": "Robots that Sync and Swarm: A Proof of Concept in ROS 2",
+    "year": 2019,
+    "url": "https://doi.org/10.1109/MRS.2019.8901095",
+    "notes": "swarmalators, 5 patterns"
   }
 ]

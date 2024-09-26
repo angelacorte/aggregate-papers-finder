@@ -312,12 +312,6 @@
     "notes": "gather, next complete event, f delayed "
   },
   {
-    "title": "Modelling and simulation of Opportunistic IoT Services with Aggregate Computing",
-    "year": 2019,
-    "url": "https://doi.org/10.1016/J.FUTURE.2018.09.005",
-    "notes": "dangerous density, get away from target, direction, warning, crowd tracking"
-  },
-  {
     "title": "From distributed coordination to field calculus and aggregate computing",
     "year": 2019,
     "url": "https://doi.org/10.1016/J.JLAMP.2019.100486",
@@ -340,12 +334,6 @@
     "year": 2019,
     "url": "https://doi.org/10.1109/FMEC.2019.8795355",
     "notes": " aggregate implementation for an edge computing ecosystem"
-  },
-  {
-    "title": "Robots that Sync and Swarm: A Proof of Concept in ROS 2",
-    "year": 2019,
-    "url": "https://doi.org/10.1109/MRS.2019.8901095",
-    "notes": "swarmalators, 5 patterns"
   },
   {
     "title": "Pulverization in Cyber-Physical Systems:A Engineering the Self-Organizing Logic Separated from Deployment",
@@ -382,12 +370,6 @@
     "year": 2021,
     "url": "https://doi.org/10.1109/ACSOS-C52956.2021.00036",
     "notes": "monotonic filtering with ac"
-  },
-  {
-    "title": "MacroSwarm: A Field-Based Compositional Framework for Swarm Programming",
-    "year": 2023,
-    "url": "https://doi.org/10.1007/978-3-031-35361-1_2",
-    "notes": "macro swarm"
   },
   {
     "title": "Programming Distributed Collective Processes in the eXchange Calculus",

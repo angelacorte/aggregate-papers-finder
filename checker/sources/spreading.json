@@ -142,5 +142,11 @@
     "year": 2012,
     "url": "https://doi.org/10.1109/SASOW.2012.39",
     "notes": "match algorithm, spreading, aggregation, gradient, chemiotaxis, route match information"
+  },
+  {
+    "title": "Modelling and simulation of Opportunistic IoT Services with Aggregate Computing",
+    "year": 2019,
+    "url": "https://doi.org/10.1016/J.FUTURE.2018.09.005",
+    "notes": "dangerous density, get away from target, direction, warning, crowd tracking"
   }
 ]
