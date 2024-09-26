@@ -72,22 +72,10 @@
     "notes": "tuple clustering and sorting"
   },
   {
-    "title": "Cells Are Plausible Targets for High-Level Spatial Languages",
-    "year": 2008,
-    "url": "https://doi.org/10.1109/SASOW.2008.14",
-    "notes": "proto band detector + genetic regulatory network"
-  },
-  {
     "title": "An experience on probabilistic model checking and stochastic simulation to design self-organizing systems",
     "year": 2009,
     "url": "https://doi.org/10.1109/CEC.2009.4983125",
     "notes": "collective sort model checking"
-  },
-  {
-    "title": "Biochemical Tuple Spaces for Self-organising Coordination",
-    "year": 2009,
-    "url": "https://doi.org/10.1007/978-3-642-02053-7_8",
-    "notes": "biochemical tuple competition in spatial system"
   },
   {
     "title": "A framework for modelling and implementing self-organising coordination",
@@ -106,12 +94,6 @@
     "year": 2009,
     "url": "https://jakebeal.github.io/Publications/MIT-CSAIL-TR-2007-030.pdf",
     "notes": "model, primitives and references to examples"
-  },
-  {
-    "title": "Spatial Coordination of Pervasive Systems through Chemical-Inspired Tuple Spaces",
-    "year": 2010,
-    "url": "https://doi.org/10.1109/SASOW.2010.75",
-    "notes": "spatial competition, field attraction, path driven relocation, service segregation"
   },
   {
     "title": "Composable continuous-space programs for robotic swarms",

@@ -28,6 +28,7 @@ async function loadJsonData() {
         // Load each category's JSON data
         accumulation = await loadCategoryData('accumulation');
         general = await loadCategoryData('general');
+        interesting = await loadCategoryData('interesting');
         leadership = await loadCategoryData('leadership');
         learning = await loadCategoryData('learning');
         processes = await loadCategoryData('processes');
