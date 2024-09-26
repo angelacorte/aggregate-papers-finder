@@ -6,15 +6,15 @@
     "url": "https://doi.org/10.1145/332833.332842"
   },
   {
-    "title": "Distributed runtime verification by past-CTL and the field calculus",
-    "year": 2022,
-    "url": "https://doi.org/10.1016/J.JSS.2022.111251",
-    "notes": "past temporal operations, in smart home, crowd safety, drones recognition"
-  },
-  {
     "title": "Time-Fluid Field-Based Coordination",
     "year": 2020,
     "url": "https://doi.org/10.1007/978-3-030-50029-0_13",
     "notes": "time fluid P and G"
+  },
+  {
+    "title": "Distributed runtime verification by past-CTL and the field calculus",
+    "year": 2022,
+    "url": "https://doi.org/10.1016/J.JSS.2022.111251",
+    "notes": "past temporal operations, in smart home, crowd safety, drones recognition"
   }
 ]

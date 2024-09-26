@@ -6,15 +6,15 @@
     "notes": "aggregation patter, diffusion pattern, evaporation"
   },
   {
-    "title": "Optimal resilient distributed data collection in mobile edge environments",
-    "year": 2021,
-    "url": "https://doi.org/10.1016/J.COMPELECENG.2021.107580",
-    "notes": "Clist and Cblist"
-  },
-  {
     "title": "Design Patterns for Self-organising Systems",
     "year": 2007,
     "url": "https://doi.org/10.1007/978-3-540-75254-7_13",
     "notes": "aggregation patter, diffusion pattern, evaporation"
+  },
+  {
+    "title": "Optimal resilient distributed data collection in mobile edge environments",
+    "year": 2021,
+    "url": "https://doi.org/10.1016/J.COMPELECENG.2021.107580",
+    "notes": "Clist and Cblist"
   }
 ]

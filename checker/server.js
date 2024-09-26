@@ -10,6 +10,9 @@ app.use(bodyParser.json());
 
 // Helper function to update a category JSON file
 const updateCategory = (category, data, res) => {
+    // Sort the data based on the 'year' property
+    data.sort((a, b) => a.year - b.year);
+
     const filePath = `./sources/${category}.json`;
     fs.writeFile(filePath, JSON.stringify(data, null, 2), (err) => {
         if (err) {

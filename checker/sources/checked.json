@@ -1,5 +1,11 @@
 [
   {
+    "title": "Computing Amorphous Program Slices Using Dependence Graphs",
+    "year": 1999,
+    "notes": "",
+    "url": "https://doi.org/10.1145/298151.298432"
+  },
+  {
     "title": "Amorphous Computing",
     "year": 2000,
     "notes": "program in the growing-point language -- pseudo-algorithm in lisp",
@@ -216,12 +222,6 @@
     "notes": "reactive levy walk, asymptotic levy walk dispersion (one and two dimensional), "
   },
   {
-    "title": "Distributed statistical analysis of complex systems modeled through a chemical metaphor",
-    "year": 2014,
-    "url": "https://doi.org/10.1109/HPCSIM.2014.6903715",
-    "notes": "crowd steering, multi vesta, multi quatex"
-  },
-  {
     "title": "HPC from a self-organisation perspective: The case of crowd steering at the urban scale",
     "year": 2014,
     "url": "https://doi.org/10.1109/HPCSIM.2014.6903721",
@@ -268,12 +268,6 @@
     "year": 2016,
     "url": "https://doi.org/10.1109/FAS-W.2016.49",
     "notes": "aggregate mape, density estimator, crowd tracking"
-  },
-  {
-    "title": "Run-Time Management of Computation Domains in Field Calculus",
-    "year": 2016,
-    "url": "https://doi.org/10.1109/FAS-W.2016.50",
-    "notes": "average, parametric gradient, combined restriction, updatable functions/metric"
   },
   {
     "title": "Trading accuracy for speed in approximate consensus",
@@ -372,18 +366,6 @@
     "notes": "monotonic filtering with ac"
   },
   {
-    "title": "Programming Distributed Collective Processes in the eXchange Calculus",
-    "year": 2024,
-    "url": "https://doi.org/10.1007/978-3-031-51060-1",
-    "notes": "xc"
-  },
-  {
-    "title": "An Enhanced Exchange Operator for XC",
-    "year": 2024,
-    "url": "https://doi.org/10.1007/978-3-031-62697-5_8",
-    "notes": "xc"
-  },
-  {
     "title": "A Collective Adaptive Approach to Decentralised k-Coverage in Multi-robot Systems",
     "year": 2022,
     "url": "https://doi.org/10.1145/3547145",
@@ -414,15 +396,21 @@
     "notes": "parallelize FCPP with MPI"
   },
   {
+    "title": "Programming Distributed Collective Processes in the eXchange Calculus",
+    "year": 2024,
+    "url": "https://doi.org/10.1007/978-3-031-51060-1",
+    "notes": "xc"
+  },
+  {
+    "title": "An Enhanced Exchange Operator for XC",
+    "year": 2024,
+    "url": "https://doi.org/10.1007/978-3-031-62697-5_8",
+    "notes": "xc"
+  },
+  {
     "title": "Actor-Based Designs for Distributed Self-organisation Programming",
     "year": 2024,
     "url": "https://doi.org/10.1007/978-3-031-51060-1_2",
     "notes": "actor based gradient"
-  },
-  {
-    "title": "Computing Amorphous Program Slices Using Dependence Graphs",
-    "year": 1999,
-    "notes": "",
-    "url": "https://doi.org/10.1145/298151.298432"
   }
 ]
